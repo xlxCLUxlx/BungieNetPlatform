@@ -11,7 +11,7 @@ Contact: support@bungie.com
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{4BD12742-815B-40D5-8F47-A6C0CD6BC630}</ProjectGuid>
+    <ProjectGuid>{F7BF26F0-BC58-4590-B930-4A02746B193D}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>BungieNetPlatform</RootNamespace>

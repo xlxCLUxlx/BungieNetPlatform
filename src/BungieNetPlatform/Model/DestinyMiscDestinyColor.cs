@@ -37,7 +37,7 @@ namespace BungieNetPlatform.Model
         /// <param name="Green">Green.</param>
         /// <param name="Blue">Blue.</param>
         /// <param name="Alpha">Alpha.</param>
-        public DestinyMiscDestinyColor(byte[] Red = default(byte[]), byte[] Green = default(byte[]), byte[] Blue = default(byte[]), byte[] Alpha = default(byte[]))
+        public DestinyMiscDestinyColor(int? Red = default(int?), int? Green = default(int?), int? Blue = default(int?), int? Alpha = default(int?))
         {
             this.Red = Red;
             this.Green = Green;
@@ -49,25 +49,25 @@ namespace BungieNetPlatform.Model
         /// Gets or Sets Red
         /// </summary>
         [DataMember(Name="red", EmitDefaultValue=false)]
-        public byte[] Red { get; set; }
+        public int? Red { get; set; }
 
         /// <summary>
         /// Gets or Sets Green
         /// </summary>
         [DataMember(Name="green", EmitDefaultValue=false)]
-        public byte[] Green { get; set; }
+        public int? Green { get; set; }
 
         /// <summary>
         /// Gets or Sets Blue
         /// </summary>
         [DataMember(Name="blue", EmitDefaultValue=false)]
-        public byte[] Blue { get; set; }
+        public int? Blue { get; set; }
 
         /// <summary>
         /// Gets or Sets Alpha
         /// </summary>
         [DataMember(Name="alpha", EmitDefaultValue=false)]
-        public byte[] Alpha { get; set; }
+        public int? Alpha { get; set; }
 
         /// <summary>
         /// Returns the string presentation of the object

@@ -29,7 +29,7 @@ namespace BungieNetPlatform.Client
         /// Version of the package.
         /// </summary>
         /// <value>Version of the package.</value>
-        public const string Version = "2.1.2";
+        public const string Version = "2.1.3";
 
         /// <summary>
         /// Identifier for ISO 8601 DateTime Format
@@ -114,7 +114,7 @@ namespace BungieNetPlatform.Client
         /// </summary>
         public Configuration()
         {
-            UserAgent = "Swagger-Codegen/2.1.2/csharp";
+            UserAgent = "Swagger-Codegen/2.1.3/csharp";
             BasePath = "https://www.bungie.net/Platform";
             DefaultHeader = new ConcurrentDictionary<string, string>();
             ApiKey = new ConcurrentDictionary<string, string>();
@@ -187,7 +187,7 @@ namespace BungieNetPlatform.Client
             string tempFolderPath = null,
             string dateTimeFormat = null,
             int timeout = 100000,
-            string userAgent = "Swagger-Codegen/2.1.2/csharp"
+            string userAgent = "Swagger-Codegen/2.1.3/csharp"
             // ReSharper restore UnusedParameter.Local
             )
         {
@@ -422,7 +422,7 @@ namespace BungieNetPlatform.Client
             report += "    OS: " + System.Environment.OSVersion + "\n";
             report += "    .NET Framework Version: " + System.Environment.Version  + "\n";
             report += "    Version of the API: 2.1.1\n";
-            report += "    SDK Package Version: 2.1.2\n";
+            report += "    SDK Package Version: 2.1.3\n";
 
             return report;
         }

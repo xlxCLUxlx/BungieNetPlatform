@@ -92,7 +92,7 @@ Contact: support@bungie.com
   <Import Project="$(MsBuildToolsPath)\Microsoft.CSharp.targets" />
   <ItemGroup>
     <ProjectReference Include="..\BungieNetPlatform\BungieNetPlatform.csproj">
-      <Project>{4BD12742-815B-40D5-8F47-A6C0CD6BC630}</Project>
+      <Project>{F7BF26F0-BC58-4590-B930-4A02746B193D}</Project>
       <Name>BungieNetPlatform</Name>
     </ProjectReference>
   </ItemGroup>
