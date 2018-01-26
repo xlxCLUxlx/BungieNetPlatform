@@ -1,4 +1,4 @@
-# BungieNetPlatform.BungieNetPlatform.Model.DestinyDefinitionsDestinyActivityChallengeDefinition
+# BungieNetPlatform.Model.DestinyDefinitionsDestinyActivityChallengeDefinition
 ## Properties
 
 Name | Type | Description | Notes

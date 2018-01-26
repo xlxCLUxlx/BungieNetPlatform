@@ -1,4 +1,4 @@
-# BungieNetPlatform.BungieNetPlatform.Model.DestinyDestinyItemSortType
+# BungieNetPlatform.Model.DestinyDestinyItemSortType
 ## Properties
 
 Name | Type | Description | Notes

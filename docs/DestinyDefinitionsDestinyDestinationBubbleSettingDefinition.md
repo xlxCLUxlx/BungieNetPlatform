@@ -1,4 +1,4 @@
-# BungieNetPlatform.BungieNetPlatform.Model.DestinyDefinitionsDestinyDestinationBubbleSettingDefinition
+# BungieNetPlatform.Model.DestinyDefinitionsDestinyDestinationBubbleSettingDefinition
 ## Properties
 
 Name | Type | Description | Notes

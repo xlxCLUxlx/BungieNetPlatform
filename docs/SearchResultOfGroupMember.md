@@ -1,4 +1,4 @@
-# BungieNetPlatform.BungieNetPlatform.Model.SearchResultOfGroupMember
+# BungieNetPlatform.Model.SearchResultOfGroupMember
 ## Properties
 
 Name | Type | Description | Notes

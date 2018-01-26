@@ -1,4 +1,4 @@
-# BungieNetPlatform.BungieNetPlatform.Model.DestinyDefinitionsDestinyMaterialRequirementSetDefinition
+# BungieNetPlatform.Model.DestinyDefinitionsDestinyMaterialRequirementSetDefinition
 ## Properties
 
 Name | Type | Description | Notes

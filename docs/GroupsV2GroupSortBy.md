@@ -1,4 +1,4 @@
-# BungieNetPlatform.BungieNetPlatform.Model.GroupsV2GroupSortBy
+# BungieNetPlatform.Model.GroupsV2GroupSortBy
 ## Properties
 
 Name | Type | Description | Notes

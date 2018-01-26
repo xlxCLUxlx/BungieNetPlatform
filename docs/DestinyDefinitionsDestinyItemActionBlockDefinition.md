@@ -1,4 +1,4 @@
-# BungieNetPlatform.BungieNetPlatform.Model.DestinyDefinitionsDestinyItemActionBlockDefinition
+# BungieNetPlatform.Model.DestinyDefinitionsDestinyItemActionBlockDefinition
 ## Properties
 
 Name | Type | Description | Notes

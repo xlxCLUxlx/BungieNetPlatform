@@ -1,4 +1,4 @@
-# BungieNetPlatform.BungieNetPlatform.Model.DictionaryComponentResponseOfint64AndDestinyKiosksComponent
+# BungieNetPlatform.Model.DictionaryComponentResponseOfint64AndDestinyKiosksComponent
 ## Properties
 
 Name | Type | Description | Notes

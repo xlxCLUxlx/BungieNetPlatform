@@ -1,4 +1,4 @@
-# BungieNetPlatform.BungieNetPlatform.Model.DestinyDestinyVendorInteractionRewardSelection
+# BungieNetPlatform.Model.DestinyDestinyVendorInteractionRewardSelection
 ## Properties
 
 Name | Type | Description | Notes

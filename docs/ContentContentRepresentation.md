@@ -1,4 +1,4 @@
-# BungieNetPlatform.BungieNetPlatform.Model.ContentContentRepresentation
+# BungieNetPlatform.Model.ContentContentRepresentation
 ## Properties
 
 Name | Type | Description | Notes

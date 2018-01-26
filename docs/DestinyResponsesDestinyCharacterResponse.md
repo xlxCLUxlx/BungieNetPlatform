@@ -1,4 +1,4 @@
-# BungieNetPlatform.BungieNetPlatform.Model.DestinyResponsesDestinyCharacterResponse
+# BungieNetPlatform.Model.DestinyResponsesDestinyCharacterResponse
 ## Properties
 
 Name | Type | Description | Notes

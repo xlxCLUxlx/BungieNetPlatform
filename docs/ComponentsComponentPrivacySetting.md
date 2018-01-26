@@ -1,4 +1,4 @@
-# BungieNetPlatform.BungieNetPlatform.Model.ComponentsComponentPrivacySetting
+# BungieNetPlatform.Model.ComponentsComponentPrivacySetting
 ## Properties
 
 Name | Type | Description | Notes

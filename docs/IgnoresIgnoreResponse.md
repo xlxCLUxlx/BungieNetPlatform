@@ -1,4 +1,4 @@
-# BungieNetPlatform.BungieNetPlatform.Model.IgnoresIgnoreResponse
+# BungieNetPlatform.Model.IgnoresIgnoreResponse
 ## Properties
 
 Name | Type | Description | Notes

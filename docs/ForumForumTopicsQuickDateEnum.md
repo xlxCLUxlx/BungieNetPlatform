@@ -1,4 +1,4 @@
-# BungieNetPlatform.BungieNetPlatform.Model.ForumForumTopicsQuickDateEnum
+# BungieNetPlatform.Model.ForumForumTopicsQuickDateEnum
 ## Properties
 
 Name | Type | Description | Notes

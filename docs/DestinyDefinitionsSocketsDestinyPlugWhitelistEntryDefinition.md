@@ -1,4 +1,4 @@
-# BungieNetPlatform.BungieNetPlatform.Model.DestinyDefinitionsSocketsDestinyPlugWhitelistEntryDefinition
+# BungieNetPlatform.Model.DestinyDefinitionsSocketsDestinyPlugWhitelistEntryDefinition
 ## Properties
 
 Name | Type | Description | Notes

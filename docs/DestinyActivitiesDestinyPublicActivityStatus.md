@@ -1,4 +1,4 @@
-# BungieNetPlatform.BungieNetPlatform.Model.DestinyActivitiesDestinyPublicActivityStatus
+# BungieNetPlatform.Model.DestinyActivitiesDestinyPublicActivityStatus
 ## Properties
 
 Name | Type | Description | Notes

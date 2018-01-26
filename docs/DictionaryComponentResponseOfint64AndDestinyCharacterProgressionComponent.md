@@ -1,4 +1,4 @@
-# BungieNetPlatform.BungieNetPlatform.Model.DictionaryComponentResponseOfint64AndDestinyCharacterProgressionComponent
+# BungieNetPlatform.Model.DictionaryComponentResponseOfint64AndDestinyCharacterProgressionComponent
 ## Properties
 
 Name | Type | Description | Notes

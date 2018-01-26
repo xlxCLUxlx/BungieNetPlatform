@@ -1,4 +1,4 @@
-# BungieNetPlatform.BungieNetPlatform.Model.DestinyDefinitionsDestinyTalentNodeStepLightAbilities
+# BungieNetPlatform.Model.DestinyDefinitionsDestinyTalentNodeStepLightAbilities
 ## Properties
 
 Name | Type | Description | Notes

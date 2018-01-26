@@ -1,4 +1,4 @@
-# BungieNetPlatform.BungieNetPlatform.Model.DestinyMilestonesDestinyMilestoneActivityCompletionStatus
+# BungieNetPlatform.Model.DestinyMilestonesDestinyMilestoneActivityCompletionStatus
 ## Properties
 
 Name | Type | Description | Notes

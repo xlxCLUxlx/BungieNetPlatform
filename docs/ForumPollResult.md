@@ -1,4 +1,4 @@
-# BungieNetPlatform.BungieNetPlatform.Model.ForumPollResult
+# BungieNetPlatform.Model.ForumPollResult
 ## Properties
 
 Name | Type | Description | Notes

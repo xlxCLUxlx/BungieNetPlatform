@@ -1,4 +1,4 @@
-# BungieNetPlatform.BungieNetPlatform.Model.DestinyDefinitionsDestinyPlaceDefinition
+# BungieNetPlatform.Model.DestinyDefinitionsDestinyPlaceDefinition
 ## Properties
 
 Name | Type | Description | Notes

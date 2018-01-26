@@ -1,4 +1,4 @@
-# BungieNetPlatform.BungieNetPlatform.Model.SingleComponentResponseOfDestinyVendorReceiptsComponent
+# BungieNetPlatform.Model.SingleComponentResponseOfDestinyVendorReceiptsComponent
 ## Properties
 
 Name | Type | Description | Notes

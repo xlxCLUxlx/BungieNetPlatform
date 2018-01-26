@@ -1,4 +1,4 @@
-# BungieNetPlatform.BungieNetPlatform.Model.DestinyDestinyItemSubType
+# BungieNetPlatform.Model.DestinyDestinyItemSubType
 ## Properties
 
 Name | Type | Description | Notes

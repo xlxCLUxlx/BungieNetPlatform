@@ -1,4 +1,4 @@
-# BungieNetPlatform.BungieNetPlatform.Model.DestinyDefinitionsDestinyVendorInteractionSackEntryDefinition
+# BungieNetPlatform.Model.DestinyDefinitionsDestinyVendorInteractionSackEntryDefinition
 ## Properties
 
 Name | Type | Description | Notes

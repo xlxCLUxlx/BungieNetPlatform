@@ -1,4 +1,4 @@
-# BungieNetPlatform.BungieNetPlatform.Model.GroupsV2GroupMembershipSearchResponse
+# BungieNetPlatform.Model.GroupsV2GroupMembershipSearchResponse
 ## Properties
 
 Name | Type | Description | Notes

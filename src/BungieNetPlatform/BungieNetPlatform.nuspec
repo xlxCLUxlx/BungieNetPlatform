@@ -2,19 +2,19 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
     <metadata>
         <!-- The identifier that must be unique within the hosting gallery -->
-        <id>$id$</id>
+        <id>BungieNetPlatform</id>
         <title>BungieNetPlatform Swagger Library</title>
 
         <!-- The package version number that is used when resolving dependencies -->
-        <version>$version$</version>
+        <version>2.1.2</version>
 
         <!-- Authors contain text that appears directly on the gallery -->
-        <authors>$author$</authors>
+        <authors>Eric Boulden</authors>
 
         <!-- Owners are typically nuget.org identities that allow gallery
              users to earily find other packages by the same owners.  -->
-        <owners>$author$</owners>
-        <requireLicenseAcceptance>false</requireLicenseAcceptance>
+        <owners>Eric Boulden</owners>
+        <requireLicenseAcceptance>true</requireLicenseAcceptance>
         <developmentDependency>false</developmentDependency>
 
         <!-- The description can be used in package manager UI. Note that the
@@ -22,6 +22,7 @@
         <description>A library for the Bungie.net Destiny 2 API</description>
         <copyright>https://www.bungie.net/en/View/Bungie/terms</copyright>
         <licenseUrl>https://github.com/Bungie-net/api/blob/master/LICENSE</licenseUrl>
+		<releaseNotes>Corrected an issue with the BungieMembershipType enumeration where it was not correctly deserializing in API calls.</releaseNotes>
 
         <!-- Dependencies are automatically installed when the package is installed -->
         <dependencies>
@@ -30,6 +31,7 @@
             <dependency id="RestSharp" version="105.1.0" />
 
         </dependencies>
+		<tags>C# Bungie Rest API Destiny</tags>	
     </metadata>
     <files>
 

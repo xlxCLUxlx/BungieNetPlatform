@@ -1,4 +1,4 @@
-# BungieNetPlatform.BungieNetPlatform.Model.DestinyPerksDestinyPerkReference
+# BungieNetPlatform.Model.DestinyPerksDestinyPerkReference
 ## Properties
 
 Name | Type | Description | Notes

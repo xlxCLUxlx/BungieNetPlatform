@@ -1,4 +1,4 @@
-# BungieNetPlatform.BungieNetPlatform.Model.TrendingTrendingEntryDestinyActivity
+# BungieNetPlatform.Model.TrendingTrendingEntryDestinyActivity
 ## Properties
 
 Name | Type | Description | Notes

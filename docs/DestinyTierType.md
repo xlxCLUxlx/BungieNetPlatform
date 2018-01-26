@@ -1,4 +1,4 @@
-# BungieNetPlatform.BungieNetPlatform.Model.DestinyTierType
+# BungieNetPlatform.Model.DestinyTierType
 ## Properties
 
 Name | Type | Description | Notes

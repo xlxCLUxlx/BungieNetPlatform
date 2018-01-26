@@ -1,4 +1,4 @@
-# BungieNetPlatform.BungieNetPlatform.Model.DestinyDefinitionsDestinyTalentExclusiveGroup
+# BungieNetPlatform.Model.DestinyDefinitionsDestinyTalentExclusiveGroup
 ## Properties
 
 Name | Type | Description | Notes

@@ -1,4 +1,4 @@
-# BungieNetPlatform.BungieNetPlatform.Model.DestinyDestinyGameVersions
+# BungieNetPlatform.Model.DestinyDestinyGameVersions
 ## Properties
 
 Name | Type | Description | Notes

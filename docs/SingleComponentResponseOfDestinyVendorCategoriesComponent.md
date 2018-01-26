@@ -1,4 +1,4 @@
-# BungieNetPlatform.BungieNetPlatform.Model.SingleComponentResponseOfDestinyVendorCategoriesComponent
+# BungieNetPlatform.Model.SingleComponentResponseOfDestinyVendorCategoriesComponent
 ## Properties
 
 Name | Type | Description | Notes

@@ -1,4 +1,4 @@
-# BungieNetPlatform.BungieNetPlatform.Model.ForumForumPostPopularity
+# BungieNetPlatform.Model.ForumForumPostPopularity
 ## Properties
 
 Name | Type | Description | Notes

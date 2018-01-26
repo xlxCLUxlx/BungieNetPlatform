@@ -1,4 +1,4 @@
-# BungieNetPlatform.BungieNetPlatform.Model.QueriesPagedQuery
+# BungieNetPlatform.Model.QueriesPagedQuery
 ## Properties
 
 Name | Type | Description | Notes

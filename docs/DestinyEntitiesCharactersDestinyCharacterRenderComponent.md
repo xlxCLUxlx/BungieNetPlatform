@@ -1,4 +1,4 @@
-# BungieNetPlatform.BungieNetPlatform.Model.DestinyEntitiesCharactersDestinyCharacterRenderComponent
+# BungieNetPlatform.Model.DestinyEntitiesCharactersDestinyCharacterRenderComponent
 ## Properties
 
 Name | Type | Description | Notes

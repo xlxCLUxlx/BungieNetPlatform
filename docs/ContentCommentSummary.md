@@ -1,4 +1,4 @@
-# BungieNetPlatform.BungieNetPlatform.Model.ContentCommentSummary
+# BungieNetPlatform.Model.ContentCommentSummary
 ## Properties
 
 Name | Type | Description | Notes

@@ -1,4 +1,4 @@
-# BungieNetPlatform.BungieNetPlatform.Model.DestinyDestinyActivity
+# BungieNetPlatform.Model.DestinyDestinyActivity
 ## Properties
 
 Name | Type | Description | Notes

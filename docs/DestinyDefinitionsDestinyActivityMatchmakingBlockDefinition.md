@@ -1,4 +1,4 @@
-# BungieNetPlatform.BungieNetPlatform.Model.DestinyDefinitionsDestinyActivityMatchmakingBlockDefinition
+# BungieNetPlatform.Model.DestinyDefinitionsDestinyActivityMatchmakingBlockDefinition
 ## Properties
 
 Name | Type | Description | Notes

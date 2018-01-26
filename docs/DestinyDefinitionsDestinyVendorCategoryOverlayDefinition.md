@@ -1,4 +1,4 @@
-# BungieNetPlatform.BungieNetPlatform.Model.DestinyDefinitionsDestinyVendorCategoryOverlayDefinition
+# BungieNetPlatform.Model.DestinyDefinitionsDestinyVendorCategoryOverlayDefinition
 ## Properties
 
 Name | Type | Description | Notes

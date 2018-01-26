@@ -1,4 +1,4 @@
-# BungieNetPlatform.BungieNetPlatform.Model.DestinyDefinitionsDestinyTalentNodeStepDamageTypes
+# BungieNetPlatform.Model.DestinyDefinitionsDestinyTalentNodeStepDamageTypes
 ## Properties
 
 Name | Type | Description | Notes

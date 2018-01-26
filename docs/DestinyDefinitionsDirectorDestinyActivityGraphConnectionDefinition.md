@@ -1,4 +1,4 @@
-# BungieNetPlatform.BungieNetPlatform.Model.DestinyDefinitionsDirectorDestinyActivityGraphConnectionDefinition
+# BungieNetPlatform.Model.DestinyDefinitionsDirectorDestinyActivityGraphConnectionDefinition
 ## Properties
 
 Name | Type | Description | Notes

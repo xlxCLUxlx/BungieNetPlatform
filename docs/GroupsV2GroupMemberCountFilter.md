@@ -1,4 +1,4 @@
-# BungieNetPlatform.BungieNetPlatform.Model.GroupsV2GroupMemberCountFilter
+# BungieNetPlatform.Model.GroupsV2GroupMemberCountFilter
 ## Properties
 
 Name | Type | Description | Notes

@@ -1,4 +1,4 @@
-# BungieNetPlatform.BungieNetPlatform.Model.DestinyHistoricalStatsDestinyHistoricalStatsPeriodGroup
+# BungieNetPlatform.Model.DestinyHistoricalStatsDestinyHistoricalStatsPeriodGroup
 ## Properties
 
 Name | Type | Description | Notes

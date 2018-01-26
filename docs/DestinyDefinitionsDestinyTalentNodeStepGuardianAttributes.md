@@ -1,4 +1,4 @@
-# BungieNetPlatform.BungieNetPlatform.Model.DestinyDefinitionsDestinyTalentNodeStepGuardianAttributes
+# BungieNetPlatform.Model.DestinyDefinitionsDestinyTalentNodeStepGuardianAttributes
 ## Properties
 
 Name | Type | Description | Notes

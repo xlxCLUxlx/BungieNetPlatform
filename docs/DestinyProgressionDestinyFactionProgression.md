@@ -1,4 +1,4 @@
-# BungieNetPlatform.BungieNetPlatform.Model.DestinyProgressionDestinyFactionProgression
+# BungieNetPlatform.Model.DestinyProgressionDestinyFactionProgression
 ## Properties
 
 Name | Type | Description | Notes

@@ -1,4 +1,4 @@
-# BungieNetPlatform.BungieNetPlatform.Model.DestinyDestinyActivityNavPointType
+# BungieNetPlatform.Model.DestinyDestinyActivityNavPointType
 ## Properties
 
 Name | Type | Description | Notes

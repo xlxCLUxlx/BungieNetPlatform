@@ -1,4 +1,4 @@
-# BungieNetPlatform.BungieNetPlatform.Model.DestinyDefinitionsDestinyFactionDefinition
+# BungieNetPlatform.Model.DestinyDefinitionsDestinyFactionDefinition
 ## Properties
 
 Name | Type | Description | Notes

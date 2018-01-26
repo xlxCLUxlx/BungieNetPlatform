@@ -1,4 +1,4 @@
-# BungieNetPlatform.BungieNetPlatform.Model.BungieMembershipType
+# BungieNetPlatform.Model.BungieMembershipType
 ## Properties
 
 Name | Type | Description | Notes

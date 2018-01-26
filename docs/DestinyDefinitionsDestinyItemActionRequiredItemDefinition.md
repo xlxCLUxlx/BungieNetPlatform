@@ -1,4 +1,4 @@
-# BungieNetPlatform.BungieNetPlatform.Model.DestinyDefinitionsDestinyItemActionRequiredItemDefinition
+# BungieNetPlatform.Model.DestinyDefinitionsDestinyItemActionRequiredItemDefinition
 ## Properties
 
 Name | Type | Description | Notes

@@ -1,4 +1,4 @@
-# BungieNetPlatform.BungieNetPlatform.Model.GroupsV2RuntimeGroupMemberType
+# BungieNetPlatform.Model.GroupsV2RuntimeGroupMemberType
 ## Properties
 
 Name | Type | Description | Notes

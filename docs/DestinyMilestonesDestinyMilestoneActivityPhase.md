@@ -1,4 +1,4 @@
-# BungieNetPlatform.BungieNetPlatform.Model.DestinyMilestonesDestinyMilestoneActivityPhase
+# BungieNetPlatform.Model.DestinyMilestonesDestinyMilestoneActivityPhase
 ## Properties
 
 Name | Type | Description | Notes

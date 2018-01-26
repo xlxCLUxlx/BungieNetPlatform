@@ -1,4 +1,4 @@
-# BungieNetPlatform.BungieNetPlatform.Model.GroupsV2GroupBanRequest
+# BungieNetPlatform.Model.GroupsV2GroupBanRequest
 ## Properties
 
 Name | Type | Description | Notes

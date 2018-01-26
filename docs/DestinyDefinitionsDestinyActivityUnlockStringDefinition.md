@@ -1,4 +1,4 @@
-# BungieNetPlatform.BungieNetPlatform.Model.DestinyDefinitionsDestinyActivityUnlockStringDefinition
+# BungieNetPlatform.Model.DestinyDefinitionsDestinyActivityUnlockStringDefinition
 ## Properties
 
 Name | Type | Description | Notes

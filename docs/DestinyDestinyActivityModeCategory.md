@@ -1,4 +1,4 @@
-# BungieNetPlatform.BungieNetPlatform.Model.DestinyDestinyActivityModeCategory
+# BungieNetPlatform.Model.DestinyDestinyActivityModeCategory
 ## Properties
 
 Name | Type | Description | Notes

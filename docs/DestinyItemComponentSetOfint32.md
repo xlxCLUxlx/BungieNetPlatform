@@ -1,4 +1,4 @@
-# BungieNetPlatform.BungieNetPlatform.Model.DestinyItemComponentSetOfint32
+# BungieNetPlatform.Model.DestinyItemComponentSetOfint32
 ## Properties
 
 Name | Type | Description | Notes

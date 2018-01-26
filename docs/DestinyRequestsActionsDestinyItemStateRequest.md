@@ -1,4 +1,4 @@
-# BungieNetPlatform.BungieNetPlatform.Model.DestinyRequestsActionsDestinyItemStateRequest
+# BungieNetPlatform.Model.DestinyRequestsActionsDestinyItemStateRequest
 ## Properties
 
 Name | Type | Description | Notes

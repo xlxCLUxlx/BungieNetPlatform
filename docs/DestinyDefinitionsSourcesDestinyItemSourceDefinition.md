@@ -1,4 +1,4 @@
-# BungieNetPlatform.BungieNetPlatform.Model.DestinyDefinitionsSourcesDestinyItemSourceDefinition
+# BungieNetPlatform.Model.DestinyDefinitionsSourcesDestinyItemSourceDefinition
 ## Properties
 
 Name | Type | Description | Notes

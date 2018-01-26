@@ -1,4 +1,4 @@
-# BungieNetPlatform.BungieNetPlatform.Model.DestinyDefinitionsDestinyNodeActivationRequirement
+# BungieNetPlatform.Model.DestinyDefinitionsDestinyNodeActivationRequirement
 ## Properties
 
 Name | Type | Description | Notes

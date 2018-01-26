@@ -1,4 +1,4 @@
-# BungieNetPlatform.BungieNetPlatform.Model.DictionaryComponentResponseOfint64AndDestinyInventoryComponent
+# BungieNetPlatform.Model.DictionaryComponentResponseOfint64AndDestinyInventoryComponent
 ## Properties
 
 Name | Type | Description | Notes

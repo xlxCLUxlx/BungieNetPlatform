@@ -1,4 +1,4 @@
-# BungieNetPlatform.BungieNetPlatform.Model.DestinyHistoricalStatsDefinitionsDestinyStatsMergeMethod
+# BungieNetPlatform.Model.DestinyHistoricalStatsDefinitionsDestinyStatsMergeMethod
 ## Properties
 
 Name | Type | Description | Notes

@@ -1,4 +1,4 @@
-# BungieNetPlatform.BungieNetPlatform.Model.DestinyRequestsDestinyItemTransferRequest
+# BungieNetPlatform.Model.DestinyRequestsDestinyItemTransferRequest
 ## Properties
 
 Name | Type | Description | Notes

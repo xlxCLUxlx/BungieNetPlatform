@@ -1,4 +1,4 @@
-# BungieNetPlatform.BungieNetPlatform.Model.DestinyDefinitionsDestinyItemTranslationBlockDefinition
+# BungieNetPlatform.Model.DestinyDefinitionsDestinyItemTranslationBlockDefinition
 ## Properties
 
 Name | Type | Description | Notes

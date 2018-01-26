@@ -1,4 +1,4 @@
-# BungieNetPlatform.BungieNetPlatform.Model.ConfigGroupTheme
+# BungieNetPlatform.Model.ConfigGroupTheme
 ## Properties
 
 Name | Type | Description | Notes

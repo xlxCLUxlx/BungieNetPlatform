@@ -1,4 +1,4 @@
-# BungieNetPlatform.BungieNetPlatform.Model.ForumForumRecruitmentToneLabel
+# BungieNetPlatform.Model.ForumForumRecruitmentToneLabel
 ## Properties
 
 Name | Type | Description | Notes

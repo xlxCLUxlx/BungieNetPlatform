@@ -1,4 +1,4 @@
-# BungieNetPlatform.BungieNetPlatform.Model.DestinyHistoricalStatsDestinyPostGameCarnageReportTeamEntry
+# BungieNetPlatform.Model.DestinyHistoricalStatsDestinyPostGameCarnageReportTeamEntry
 ## Properties
 
 Name | Type | Description | Notes

@@ -1,4 +1,4 @@
-# BungieNetPlatform.BungieNetPlatform.Model.DatesDateRange
+# BungieNetPlatform.Model.DatesDateRange
 ## Properties
 
 Name | Type | Description | Notes

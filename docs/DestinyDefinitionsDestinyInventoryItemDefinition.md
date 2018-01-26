@@ -1,4 +1,4 @@
-# BungieNetPlatform.BungieNetPlatform.Model.DestinyDefinitionsDestinyInventoryItemDefinition
+# BungieNetPlatform.Model.DestinyDefinitionsDestinyInventoryItemDefinition
 ## Properties
 
 Name | Type | Description | Notes

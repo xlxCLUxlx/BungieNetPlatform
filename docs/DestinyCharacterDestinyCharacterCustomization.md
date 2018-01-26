@@ -1,4 +1,4 @@
-# BungieNetPlatform.BungieNetPlatform.Model.DestinyCharacterDestinyCharacterCustomization
+# BungieNetPlatform.Model.DestinyCharacterDestinyCharacterCustomization
 ## Properties
 
 Name | Type | Description | Notes

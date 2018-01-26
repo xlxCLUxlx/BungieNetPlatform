@@ -1,4 +1,4 @@
-# BungieNetPlatform.BungieNetPlatform.Model.ForumForumRecruitmentIntensityLabel
+# BungieNetPlatform.Model.ForumForumRecruitmentIntensityLabel
 ## Properties
 
 Name | Type | Description | Notes

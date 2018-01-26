@@ -1,4 +1,4 @@
-# BungieNetPlatform.BungieNetPlatform.Model.IgnoresIgnoreLength
+# BungieNetPlatform.Model.IgnoresIgnoreLength
 ## Properties
 
 Name | Type | Description | Notes

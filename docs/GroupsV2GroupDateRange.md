@@ -1,4 +1,4 @@
-# BungieNetPlatform.BungieNetPlatform.Model.GroupsV2GroupDateRange
+# BungieNetPlatform.Model.GroupsV2GroupDateRange
 ## Properties
 
 Name | Type | Description | Notes

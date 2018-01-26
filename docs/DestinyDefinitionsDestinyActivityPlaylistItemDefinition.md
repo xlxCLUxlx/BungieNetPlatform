@@ -1,4 +1,4 @@
-# BungieNetPlatform.BungieNetPlatform.Model.DestinyDefinitionsDestinyActivityPlaylistItemDefinition
+# BungieNetPlatform.Model.DestinyDefinitionsDestinyActivityPlaylistItemDefinition
 ## Properties
 
 Name | Type | Description | Notes

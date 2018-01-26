@@ -1,4 +1,4 @@
-# BungieNetPlatform.BungieNetPlatform.Model.UserUserToUserContext
+# BungieNetPlatform.Model.UserUserToUserContext
 ## Properties
 
 Name | Type | Description | Notes

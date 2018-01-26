@@ -1,4 +1,4 @@
-# BungieNetPlatform.BungieNetPlatform.Api.CommunityContentApi
+# BungieNetPlatform.Api.CommunityContentApi
 
 All URIs are relative to *https://www.bungie.net/Platform*
 
@@ -24,9 +24,9 @@ Returns community content.
 ```csharp
 using System;
 using System.Diagnostics;
-using BungieNetPlatform.BungieNetPlatform.Api;
+using BungieNetPlatform.Api;
 using BungieNetPlatform.Client;
-using BungieNetPlatform.BungieNetPlatform.Model;
+using BungieNetPlatform.Model;
 
 namespace Example
 {
@@ -88,9 +88,9 @@ Returns info about community members who are live streaming.
 ```csharp
 using System;
 using System.Diagnostics;
-using BungieNetPlatform.BungieNetPlatform.Api;
+using BungieNetPlatform.Api;
 using BungieNetPlatform.Client;
-using BungieNetPlatform.BungieNetPlatform.Model;
+using BungieNetPlatform.Model;
 
 namespace Example
 {
@@ -156,9 +156,9 @@ Returns info about community members who are live streaming in your clans.
 ```csharp
 using System;
 using System.Diagnostics;
-using BungieNetPlatform.BungieNetPlatform.Api;
+using BungieNetPlatform.Api;
 using BungieNetPlatform.Client;
-using BungieNetPlatform.BungieNetPlatform.Model;
+using BungieNetPlatform.Model;
 
 namespace Example
 {
@@ -220,9 +220,9 @@ Returns info about community members who are live streaming among your friends.
 ```csharp
 using System;
 using System.Diagnostics;
-using BungieNetPlatform.BungieNetPlatform.Api;
+using BungieNetPlatform.Api;
 using BungieNetPlatform.Client;
-using BungieNetPlatform.BungieNetPlatform.Model;
+using BungieNetPlatform.Model;
 
 namespace Example
 {
@@ -284,9 +284,9 @@ Returns info about Featured live streams.
 ```csharp
 using System;
 using System.Diagnostics;
-using BungieNetPlatform.BungieNetPlatform.Api;
+using BungieNetPlatform.Api;
 using BungieNetPlatform.Client;
-using BungieNetPlatform.BungieNetPlatform.Model;
+using BungieNetPlatform.Model;
 
 namespace Example
 {
@@ -350,9 +350,9 @@ Gets the Live Streaming status of a particular Account and Membership Type.
 ```csharp
 using System;
 using System.Diagnostics;
-using BungieNetPlatform.BungieNetPlatform.Api;
+using BungieNetPlatform.Api;
 using BungieNetPlatform.Client;
-using BungieNetPlatform.BungieNetPlatform.Model;
+using BungieNetPlatform.Model;
 
 namespace Example
 {

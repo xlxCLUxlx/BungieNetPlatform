@@ -1,4 +1,4 @@
-# BungieNetPlatform.BungieNetPlatform.Model.TrendingTrendingEntryCommunityCreation
+# BungieNetPlatform.Model.TrendingTrendingEntryCommunityCreation
 ## Properties
 
 Name | Type | Description | Notes

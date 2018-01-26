@@ -1,4 +1,4 @@
-# BungieNetPlatform.BungieNetPlatform.Model.DestinyRequestsActionsDestinyItemSetActionRequest
+# BungieNetPlatform.Model.DestinyRequestsActionsDestinyItemSetActionRequest
 ## Properties
 
 Name | Type | Description | Notes

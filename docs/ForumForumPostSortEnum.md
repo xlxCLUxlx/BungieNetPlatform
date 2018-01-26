@@ -1,4 +1,4 @@
-# BungieNetPlatform.BungieNetPlatform.Model.ForumForumPostSortEnum
+# BungieNetPlatform.Model.ForumForumPostSortEnum
 ## Properties
 
 Name | Type | Description | Notes

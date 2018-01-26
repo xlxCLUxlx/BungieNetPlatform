@@ -1,4 +1,4 @@
-# BungieNetPlatform.BungieNetPlatform.Model.DestinyDestinyActivityDifficultyTier
+# BungieNetPlatform.Model.DestinyDestinyActivityDifficultyTier
 ## Properties
 
 Name | Type | Description | Notes

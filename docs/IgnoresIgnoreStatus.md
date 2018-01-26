@@ -1,4 +1,4 @@
-# BungieNetPlatform.BungieNetPlatform.Model.IgnoresIgnoreStatus
+# BungieNetPlatform.Model.IgnoresIgnoreStatus
 ## Properties
 
 Name | Type | Description | Notes

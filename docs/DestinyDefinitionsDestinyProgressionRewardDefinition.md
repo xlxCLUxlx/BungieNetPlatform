@@ -1,4 +1,4 @@
-# BungieNetPlatform.BungieNetPlatform.Model.DestinyDefinitionsDestinyProgressionRewardDefinition
+# BungieNetPlatform.Model.DestinyDefinitionsDestinyProgressionRewardDefinition
 ## Properties
 
 Name | Type | Description | Notes

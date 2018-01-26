@@ -1,4 +1,4 @@
-# BungieNetPlatform.BungieNetPlatform.Model.GroupsV2GroupPotentialMemberStatus
+# BungieNetPlatform.Model.GroupsV2GroupPotentialMemberStatus
 ## Properties
 
 Name | Type | Description | Notes

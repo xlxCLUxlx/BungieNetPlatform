@@ -1,4 +1,4 @@
-# BungieNetPlatform.BungieNetPlatform.Model.TrendingTrendingEntrySupportArticle
+# BungieNetPlatform.Model.TrendingTrendingEntrySupportArticle
 ## Properties
 
 Name | Type | Description | Notes

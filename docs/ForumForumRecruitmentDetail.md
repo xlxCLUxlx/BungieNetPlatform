@@ -1,4 +1,4 @@
-# BungieNetPlatform.BungieNetPlatform.Model.ForumForumRecruitmentDetail
+# BungieNetPlatform.Model.ForumForumRecruitmentDetail
 ## Properties
 
 Name | Type | Description | Notes

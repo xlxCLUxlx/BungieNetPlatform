@@ -1,4 +1,4 @@
-# BungieNetPlatform.BungieNetPlatform.Model.SearchResultOfGroupBan
+# BungieNetPlatform.Model.SearchResultOfGroupBan
 ## Properties
 
 Name | Type | Description | Notes

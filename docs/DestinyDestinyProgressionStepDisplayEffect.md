@@ -1,4 +1,4 @@
-# BungieNetPlatform.BungieNetPlatform.Model.DestinyDestinyProgressionStepDisplayEffect
+# BungieNetPlatform.Model.DestinyDestinyProgressionStepDisplayEffect
 ## Properties
 
 Name | Type | Description | Notes

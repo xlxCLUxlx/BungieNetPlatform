@@ -1,4 +1,4 @@
-# BungieNetPlatform.BungieNetPlatform.Model.DestinyEntitiesItemsDestinyItemPerksComponent
+# BungieNetPlatform.Model.DestinyEntitiesItemsDestinyItemPerksComponent
 ## Properties
 
 Name | Type | Description | Notes

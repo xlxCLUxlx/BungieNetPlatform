@@ -1,4 +1,4 @@
-# BungieNetPlatform.BungieNetPlatform.Model.DestinyEntitiesItemsDestinyItemObjectivesComponent
+# BungieNetPlatform.Model.DestinyEntitiesItemsDestinyItemObjectivesComponent
 ## Properties
 
 Name | Type | Description | Notes

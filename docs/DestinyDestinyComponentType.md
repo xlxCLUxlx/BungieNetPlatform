@@ -1,4 +1,4 @@
-# BungieNetPlatform.BungieNetPlatform.Model.DestinyDestinyComponentType
+# BungieNetPlatform.Model.DestinyDestinyComponentType
 ## Properties
 
 Name | Type | Description | Notes

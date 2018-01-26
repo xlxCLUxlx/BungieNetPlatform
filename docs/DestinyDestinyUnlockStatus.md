@@ -1,4 +1,4 @@
-# BungieNetPlatform.BungieNetPlatform.Model.DestinyDestinyUnlockStatus
+# BungieNetPlatform.Model.DestinyDestinyUnlockStatus
 ## Properties
 
 Name | Type | Description | Notes

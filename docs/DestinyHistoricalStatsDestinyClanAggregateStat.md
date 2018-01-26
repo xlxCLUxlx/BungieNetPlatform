@@ -1,4 +1,4 @@
-# BungieNetPlatform.BungieNetPlatform.Model.DestinyHistoricalStatsDestinyClanAggregateStat
+# BungieNetPlatform.Model.DestinyHistoricalStatsDestinyClanAggregateStat
 ## Properties
 
 Name | Type | Description | Notes

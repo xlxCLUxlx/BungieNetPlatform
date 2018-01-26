@@ -1,4 +1,4 @@
-# BungieNetPlatform.BungieNetPlatform.Model.InlineResponse2004
+# BungieNetPlatform.Model.InlineResponse2004
 ## Properties
 
 Name | Type | Description | Notes

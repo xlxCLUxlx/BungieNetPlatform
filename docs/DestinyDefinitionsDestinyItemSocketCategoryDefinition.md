@@ -1,4 +1,4 @@
-# BungieNetPlatform.BungieNetPlatform.Model.DestinyDefinitionsDestinyItemSocketCategoryDefinition
+# BungieNetPlatform.Model.DestinyDefinitionsDestinyItemSocketCategoryDefinition
 ## Properties
 
 Name | Type | Description | Notes

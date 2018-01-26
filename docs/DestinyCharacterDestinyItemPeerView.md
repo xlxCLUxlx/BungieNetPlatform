@@ -1,4 +1,4 @@
-# BungieNetPlatform.BungieNetPlatform.Model.DestinyCharacterDestinyItemPeerView
+# BungieNetPlatform.Model.DestinyCharacterDestinyItemPeerView
 ## Properties
 
 Name | Type | Description | Notes

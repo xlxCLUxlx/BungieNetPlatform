@@ -1,4 +1,4 @@
-# BungieNetPlatform.BungieNetPlatform.Model.DestinyRequestsActionsDestinyCharacterActionRequest
+# BungieNetPlatform.Model.DestinyRequestsActionsDestinyCharacterActionRequest
 ## Properties
 
 Name | Type | Description | Notes

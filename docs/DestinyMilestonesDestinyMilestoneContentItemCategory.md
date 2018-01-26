@@ -1,4 +1,4 @@
-# BungieNetPlatform.BungieNetPlatform.Model.DestinyMilestonesDestinyMilestoneContentItemCategory
+# BungieNetPlatform.Model.DestinyMilestonesDestinyMilestoneContentItemCategory
 ## Properties
 
 Name | Type | Description | Notes

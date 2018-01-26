@@ -1,4 +1,4 @@
-# BungieNetPlatform.BungieNetPlatform.Model.SingleComponentResponseOfDestinyProfileComponent
+# BungieNetPlatform.Model.SingleComponentResponseOfDestinyProfileComponent
 ## Properties
 
 Name | Type | Description | Notes

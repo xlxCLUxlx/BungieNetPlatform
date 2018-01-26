@@ -1,4 +1,4 @@
-# BungieNetPlatform.BungieNetPlatform.Model.DestinyChallengesDestinyChallengeStatus
+# BungieNetPlatform.Model.DestinyChallengesDestinyChallengeStatus
 ## Properties
 
 Name | Type | Description | Notes

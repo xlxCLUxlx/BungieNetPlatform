@@ -1,4 +1,4 @@
-# BungieNetPlatform.BungieNetPlatform.Model.DestinyDefinitionsDestinyProgressionDisplayPropertiesDefinition
+# BungieNetPlatform.Model.DestinyDefinitionsDestinyProgressionDisplayPropertiesDefinition
 ## Properties
 
 Name | Type | Description | Notes

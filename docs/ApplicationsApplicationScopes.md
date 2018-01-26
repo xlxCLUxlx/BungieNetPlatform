@@ -1,4 +1,4 @@
-# BungieNetPlatform.BungieNetPlatform.Model.ApplicationsApplicationScopes
+# BungieNetPlatform.Model.ApplicationsApplicationScopes
 ## Properties
 
 Name | Type | Description | Notes

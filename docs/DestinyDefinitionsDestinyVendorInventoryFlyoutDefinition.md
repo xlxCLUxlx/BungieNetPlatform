@@ -1,4 +1,4 @@
-# BungieNetPlatform.BungieNetPlatform.Model.DestinyDefinitionsDestinyVendorInventoryFlyoutDefinition
+# BungieNetPlatform.Model.DestinyDefinitionsDestinyVendorInventoryFlyoutDefinition
 ## Properties
 
 Name | Type | Description | Notes

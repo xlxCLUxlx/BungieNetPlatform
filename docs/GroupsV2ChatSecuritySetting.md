@@ -1,4 +1,4 @@
-# BungieNetPlatform.BungieNetPlatform.Model.GroupsV2ChatSecuritySetting
+# BungieNetPlatform.Model.GroupsV2ChatSecuritySetting
 ## Properties
 
 Name | Type | Description | Notes

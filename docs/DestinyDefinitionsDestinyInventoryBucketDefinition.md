@@ -1,4 +1,4 @@
-# BungieNetPlatform.BungieNetPlatform.Model.DestinyDefinitionsDestinyInventoryBucketDefinition
+# BungieNetPlatform.Model.DestinyDefinitionsDestinyInventoryBucketDefinition
 ## Properties
 
 Name | Type | Description | Notes

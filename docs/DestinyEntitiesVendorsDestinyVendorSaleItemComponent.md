@@ -1,4 +1,4 @@
-# BungieNetPlatform.BungieNetPlatform.Model.DestinyEntitiesVendorsDestinyVendorSaleItemComponent
+# BungieNetPlatform.Model.DestinyEntitiesVendorsDestinyVendorSaleItemComponent
 ## Properties
 
 Name | Type | Description | Notes

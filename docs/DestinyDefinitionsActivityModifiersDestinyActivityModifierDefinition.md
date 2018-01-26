@@ -1,4 +1,4 @@
-# BungieNetPlatform.BungieNetPlatform.Model.DestinyDefinitionsActivityModifiersDestinyActivityModifierDefinition
+# BungieNetPlatform.Model.DestinyDefinitionsActivityModifiersDestinyActivityModifierDefinition
 ## Properties
 
 Name | Type | Description | Notes

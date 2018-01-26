@@ -1,4 +1,4 @@
-# BungieNetPlatform.BungieNetPlatform.Model.DestinyDefinitionsDestinyTalentNodeStepGroups
+# BungieNetPlatform.Model.DestinyDefinitionsDestinyTalentNodeStepGroups
 ## Properties
 
 Name | Type | Description | Notes

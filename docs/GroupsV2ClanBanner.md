@@ -1,4 +1,4 @@
-# BungieNetPlatform.BungieNetPlatform.Model.GroupsV2ClanBanner
+# BungieNetPlatform.Model.GroupsV2ClanBanner
 ## Properties
 
 Name | Type | Description | Notes

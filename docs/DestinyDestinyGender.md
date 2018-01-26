@@ -1,4 +1,4 @@
-# BungieNetPlatform.BungieNetPlatform.Model.DestinyDestinyGender
+# BungieNetPlatform.Model.DestinyDestinyGender
 ## Properties
 
 Name | Type | Description | Notes

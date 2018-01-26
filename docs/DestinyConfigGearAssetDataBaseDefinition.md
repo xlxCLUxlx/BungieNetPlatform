@@ -1,4 +1,4 @@
-# BungieNetPlatform.BungieNetPlatform.Model.DestinyConfigGearAssetDataBaseDefinition
+# BungieNetPlatform.Model.DestinyConfigGearAssetDataBaseDefinition
 ## Properties
 
 Name | Type | Description | Notes

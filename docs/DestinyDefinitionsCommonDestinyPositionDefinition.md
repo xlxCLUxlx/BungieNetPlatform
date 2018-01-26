@@ -1,4 +1,4 @@
-# BungieNetPlatform.BungieNetPlatform.Model.DestinyDefinitionsCommonDestinyPositionDefinition
+# BungieNetPlatform.Model.DestinyDefinitionsCommonDestinyPositionDefinition
 ## Properties
 
 Name | Type | Description | Notes

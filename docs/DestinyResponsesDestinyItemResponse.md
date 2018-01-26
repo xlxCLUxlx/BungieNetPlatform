@@ -1,4 +1,4 @@
-# BungieNetPlatform.BungieNetPlatform.Model.DestinyResponsesDestinyItemResponse
+# BungieNetPlatform.Model.DestinyResponsesDestinyItemResponse
 ## Properties
 
 Name | Type | Description | Notes

@@ -1,4 +1,4 @@
-# BungieNetPlatform.BungieNetPlatform.Model.PartnershipsPublicPartnershipDetail
+# BungieNetPlatform.Model.PartnershipsPublicPartnershipDetail
 ## Properties
 
 Name | Type | Description | Notes

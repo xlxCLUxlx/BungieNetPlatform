@@ -1,4 +1,4 @@
-# BungieNetPlatform.BungieNetPlatform.Model.SearchResultOfCommunityLiveStatus
+# BungieNetPlatform.Model.SearchResultOfCommunityLiveStatus
 ## Properties
 
 Name | Type | Description | Notes

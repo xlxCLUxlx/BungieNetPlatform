@@ -1,4 +1,4 @@
-# BungieNetPlatform.BungieNetPlatform.Model.DestinyMilestonesDestinyPublicMilestoneVendor
+# BungieNetPlatform.Model.DestinyMilestonesDestinyPublicMilestoneVendor
 ## Properties
 
 Name | Type | Description | Notes

@@ -1,4 +1,4 @@
-# BungieNetPlatform.BungieNetPlatform.Model.DestinyEntitiesItemsDestinyItemSocketState
+# BungieNetPlatform.Model.DestinyEntitiesItemsDestinyItemSocketState
 ## Properties
 
 Name | Type | Description | Notes

@@ -1,4 +1,4 @@
-# BungieNetPlatform.BungieNetPlatform.Model.DestinyDefinitionsDestinyTalentNodeStepImpactEffects
+# BungieNetPlatform.Model.DestinyDefinitionsDestinyTalentNodeStepImpactEffects
 ## Properties
 
 Name | Type | Description | Notes

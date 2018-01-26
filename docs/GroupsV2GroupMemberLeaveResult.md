@@ -1,4 +1,4 @@
-# BungieNetPlatform.BungieNetPlatform.Model.GroupsV2GroupMemberLeaveResult
+# BungieNetPlatform.Model.GroupsV2GroupMemberLeaveResult
 ## Properties
 
 Name | Type | Description | Notes

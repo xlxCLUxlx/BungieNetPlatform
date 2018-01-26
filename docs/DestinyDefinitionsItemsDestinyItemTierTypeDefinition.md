@@ -1,4 +1,4 @@
-# BungieNetPlatform.BungieNetPlatform.Model.DestinyDefinitionsItemsDestinyItemTierTypeDefinition
+# BungieNetPlatform.Model.DestinyDefinitionsItemsDestinyItemTierTypeDefinition
 ## Properties
 
 Name | Type | Description | Notes

@@ -1,4 +1,4 @@
-# BungieNetPlatform.BungieNetPlatform.Api.PreviewApi
+# BungieNetPlatform.Api.PreviewApi
 
 All URIs are relative to *https://www.bungie.net/Platform*
 
@@ -32,9 +32,9 @@ Activate a Talent Node. Chill out, everyone: we haven't decided yet whether this
 ```csharp
 using System;
 using System.Diagnostics;
-using BungieNetPlatform.BungieNetPlatform.Api;
+using BungieNetPlatform.Api;
 using BungieNetPlatform.Client;
-using BungieNetPlatform.BungieNetPlatform.Model;
+using BungieNetPlatform.Model;
 
 namespace Example
 {
@@ -91,9 +91,9 @@ Gets activity history stats for indicated character. PREVIEW: This endpoint is s
 ```csharp
 using System;
 using System.Diagnostics;
-using BungieNetPlatform.BungieNetPlatform.Api;
+using BungieNetPlatform.Api;
 using BungieNetPlatform.Client;
-using BungieNetPlatform.BungieNetPlatform.Model;
+using BungieNetPlatform.Model;
 
 namespace Example
 {
@@ -161,9 +161,9 @@ Gets aggregated stats for a clan using the same categories as the clan leaderboa
 ```csharp
 using System;
 using System.Diagnostics;
-using BungieNetPlatform.BungieNetPlatform.Api;
+using BungieNetPlatform.Api;
 using BungieNetPlatform.Client;
-using BungieNetPlatform.BungieNetPlatform.Model;
+using BungieNetPlatform.Model;
 
 namespace Example
 {
@@ -223,9 +223,9 @@ Gets leaderboards with the signed in user's friends and the supplied destinyMemb
 ```csharp
 using System;
 using System.Diagnostics;
-using BungieNetPlatform.BungieNetPlatform.Api;
+using BungieNetPlatform.Api;
 using BungieNetPlatform.Client;
-using BungieNetPlatform.BungieNetPlatform.Model;
+using BungieNetPlatform.Model;
 
 namespace Example
 {
@@ -289,9 +289,9 @@ Gets all activities the character has participated in together with aggregate st
 ```csharp
 using System;
 using System.Diagnostics;
-using BungieNetPlatform.BungieNetPlatform.Api;
+using BungieNetPlatform.Api;
 using BungieNetPlatform.Client;
-using BungieNetPlatform.BungieNetPlatform.Model;
+using BungieNetPlatform.Model;
 
 namespace Example
 {
@@ -353,9 +353,9 @@ Gets historical stats for indicated character. PREVIEW: This endpoint is still i
 ```csharp
 using System;
 using System.Diagnostics;
-using BungieNetPlatform.BungieNetPlatform.Api;
+using BungieNetPlatform.Api;
 using BungieNetPlatform.Client;
-using BungieNetPlatform.BungieNetPlatform.Model;
+using BungieNetPlatform.Model;
 
 namespace Example
 {
@@ -427,9 +427,9 @@ Gets aggregate historical stats organized around each character for a given acco
 ```csharp
 using System;
 using System.Diagnostics;
-using BungieNetPlatform.BungieNetPlatform.Api;
+using BungieNetPlatform.Api;
 using BungieNetPlatform.Client;
-using BungieNetPlatform.BungieNetPlatform.Model;
+using BungieNetPlatform.Model;
 
 namespace Example
 {
@@ -491,9 +491,9 @@ Gets leaderboards with the signed in user's friends and the supplied destinyMemb
 ```csharp
 using System;
 using System.Diagnostics;
-using BungieNetPlatform.BungieNetPlatform.Api;
+using BungieNetPlatform.Api;
 using BungieNetPlatform.Client;
-using BungieNetPlatform.BungieNetPlatform.Model;
+using BungieNetPlatform.Model;
 
 namespace Example
 {
@@ -559,9 +559,9 @@ Gets leaderboards with the signed in user's friends and the supplied destinyMemb
 ```csharp
 using System;
 using System.Diagnostics;
-using BungieNetPlatform.BungieNetPlatform.Api;
+using BungieNetPlatform.Api;
 using BungieNetPlatform.Client;
-using BungieNetPlatform.BungieNetPlatform.Model;
+using BungieNetPlatform.Model;
 
 namespace Example
 {
@@ -629,9 +629,9 @@ Gets details about unique weapon usage, including all exotic weapons. PREVIEW: T
 ```csharp
 using System;
 using System.Diagnostics;
-using BungieNetPlatform.BungieNetPlatform.Api;
+using BungieNetPlatform.Api;
 using BungieNetPlatform.Client;
-using BungieNetPlatform.BungieNetPlatform.Model;
+using BungieNetPlatform.Model;
 
 namespace Example
 {
@@ -693,9 +693,9 @@ Get the details of a specific Vendor. PREVIEW: This service is not yet active, b
 ```csharp
 using System;
 using System.Diagnostics;
-using BungieNetPlatform.BungieNetPlatform.Api;
+using BungieNetPlatform.Api;
 using BungieNetPlatform.Client;
-using BungieNetPlatform.BungieNetPlatform.Model;
+using BungieNetPlatform.Model;
 
 namespace Example
 {
@@ -761,9 +761,9 @@ Get currently available vendors. PREVIEW: This service is not yet active, but we
 ```csharp
 using System;
 using System.Diagnostics;
-using BungieNetPlatform.BungieNetPlatform.Api;
+using BungieNetPlatform.Api;
 using BungieNetPlatform.Client;
-using BungieNetPlatform.BungieNetPlatform.Model;
+using BungieNetPlatform.Model;
 
 namespace Example
 {
@@ -827,9 +827,9 @@ Insert a plug into a socketed item. I know how it sounds, but I assure you it's 
 ```csharp
 using System;
 using System.Diagnostics;
-using BungieNetPlatform.BungieNetPlatform.Api;
+using BungieNetPlatform.Api;
 using BungieNetPlatform.Client;
-using BungieNetPlatform.BungieNetPlatform.Model;
+using BungieNetPlatform.Model;
 
 namespace Example
 {
@@ -886,9 +886,9 @@ Gets a page list of Destiny items.
 ```csharp
 using System;
 using System.Diagnostics;
-using BungieNetPlatform.BungieNetPlatform.Api;
+using BungieNetPlatform.Api;
 using BungieNetPlatform.Client;
-using BungieNetPlatform.BungieNetPlatform.Model;
+using BungieNetPlatform.Model;
 
 namespace Example
 {

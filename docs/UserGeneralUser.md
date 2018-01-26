@@ -1,4 +1,4 @@
-# BungieNetPlatform.BungieNetPlatform.Model.UserGeneralUser
+# BungieNetPlatform.Model.UserGeneralUser
 ## Properties
 
 Name | Type | Description | Notes

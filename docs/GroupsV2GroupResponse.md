@@ -1,4 +1,4 @@
-# BungieNetPlatform.BungieNetPlatform.Model.GroupsV2GroupResponse
+# BungieNetPlatform.Model.GroupsV2GroupResponse
 ## Properties
 
 Name | Type | Description | Notes

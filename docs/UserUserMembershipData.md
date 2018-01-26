@@ -1,4 +1,4 @@
-# BungieNetPlatform.BungieNetPlatform.Model.UserUserMembershipData
+# BungieNetPlatform.Model.UserUserMembershipData
 ## Properties
 
 Name | Type | Description | Notes

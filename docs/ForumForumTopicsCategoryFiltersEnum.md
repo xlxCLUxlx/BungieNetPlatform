@@ -1,4 +1,4 @@
-# BungieNetPlatform.BungieNetPlatform.Model.ForumForumTopicsCategoryFiltersEnum
+# BungieNetPlatform.Model.ForumForumTopicsCategoryFiltersEnum
 ## Properties
 
 Name | Type | Description | Notes

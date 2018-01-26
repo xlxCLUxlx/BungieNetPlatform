@@ -1,4 +1,4 @@
-# BungieNetPlatform.BungieNetPlatform.Model.DestinyQuestsDestinyQuestStatus
+# BungieNetPlatform.Model.DestinyQuestsDestinyQuestStatus
 ## Properties
 
 Name | Type | Description | Notes

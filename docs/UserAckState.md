@@ -1,4 +1,4 @@
-# BungieNetPlatform.BungieNetPlatform.Model.UserAckState
+# BungieNetPlatform.Model.UserAckState
 ## Properties
 
 Name | Type | Description | Notes

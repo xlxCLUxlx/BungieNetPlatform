@@ -1,4 +1,4 @@
-# BungieNetPlatform.BungieNetPlatform.Model.GroupsV2GroupOptionsEditAction
+# BungieNetPlatform.Model.GroupsV2GroupOptionsEditAction
 ## Properties
 
 Name | Type | Description | Notes

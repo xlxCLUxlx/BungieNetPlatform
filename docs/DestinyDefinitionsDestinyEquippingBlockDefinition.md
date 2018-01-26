@@ -1,4 +1,4 @@
-# BungieNetPlatform.BungieNetPlatform.Model.DestinyDefinitionsDestinyEquippingBlockDefinition
+# BungieNetPlatform.Model.DestinyDefinitionsDestinyEquippingBlockDefinition
 ## Properties
 
 Name | Type | Description | Notes

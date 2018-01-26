@@ -1,4 +1,4 @@
-# BungieNetPlatform.BungieNetPlatform.Model.DestinyDefinitionsItemsDestinyDerivedItemDefinition
+# BungieNetPlatform.Model.DestinyDefinitionsItemsDestinyDerivedItemDefinition
 ## Properties
 
 Name | Type | Description | Notes

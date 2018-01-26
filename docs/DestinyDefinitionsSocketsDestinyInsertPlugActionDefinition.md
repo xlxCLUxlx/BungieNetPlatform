@@ -1,4 +1,4 @@
-# BungieNetPlatform.BungieNetPlatform.Model.DestinyDefinitionsSocketsDestinyInsertPlugActionDefinition
+# BungieNetPlatform.Model.DestinyDefinitionsSocketsDestinyInsertPlugActionDefinition
 ## Properties
 
 Name | Type | Description | Notes

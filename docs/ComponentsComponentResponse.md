@@ -1,4 +1,4 @@
-# BungieNetPlatform.BungieNetPlatform.Model.ComponentsComponentResponse
+# BungieNetPlatform.Model.ComponentsComponentResponse
 ## Properties
 
 Name | Type | Description | Notes

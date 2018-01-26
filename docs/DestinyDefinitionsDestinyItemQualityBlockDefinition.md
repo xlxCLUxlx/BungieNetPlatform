@@ -1,4 +1,4 @@
-# BungieNetPlatform.BungieNetPlatform.Model.DestinyDefinitionsDestinyItemQualityBlockDefinition
+# BungieNetPlatform.Model.DestinyDefinitionsDestinyItemQualityBlockDefinition
 ## Properties
 
 Name | Type | Description | Notes

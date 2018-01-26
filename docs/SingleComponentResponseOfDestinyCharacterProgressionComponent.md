@@ -1,4 +1,4 @@
-# BungieNetPlatform.BungieNetPlatform.Model.SingleComponentResponseOfDestinyCharacterProgressionComponent
+# BungieNetPlatform.Model.SingleComponentResponseOfDestinyCharacterProgressionComponent
 ## Properties
 
 Name | Type | Description | Notes

@@ -1,4 +1,4 @@
-# BungieNetPlatform.BungieNetPlatform.Model.DestinyDefinitionsDestinyVendorCategoryEntryDefinition
+# BungieNetPlatform.Model.DestinyDefinitionsDestinyVendorCategoryEntryDefinition
 ## Properties
 
 Name | Type | Description | Notes

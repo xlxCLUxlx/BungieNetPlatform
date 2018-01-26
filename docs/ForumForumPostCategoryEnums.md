@@ -1,4 +1,4 @@
-# BungieNetPlatform.BungieNetPlatform.Model.ForumForumPostCategoryEnums
+# BungieNetPlatform.Model.ForumForumPostCategoryEnums
 ## Properties
 
 Name | Type | Description | Notes

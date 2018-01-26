@@ -1,4 +1,4 @@
-# BungieNetPlatform.BungieNetPlatform.Model.DestinyBucketCategory
+# BungieNetPlatform.Model.DestinyBucketCategory
 ## Properties
 
 Name | Type | Description | Notes

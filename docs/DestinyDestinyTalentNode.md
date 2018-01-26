@@ -1,4 +1,4 @@
-# BungieNetPlatform.BungieNetPlatform.Model.DestinyDestinyTalentNode
+# BungieNetPlatform.Model.DestinyDestinyTalentNode
 ## Properties
 
 Name | Type | Description | Notes

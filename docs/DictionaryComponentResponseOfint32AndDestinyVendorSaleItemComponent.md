@@ -1,4 +1,4 @@
-# BungieNetPlatform.BungieNetPlatform.Model.DictionaryComponentResponseOfint32AndDestinyVendorSaleItemComponent
+# BungieNetPlatform.Model.DictionaryComponentResponseOfint32AndDestinyVendorSaleItemComponent
 ## Properties
 
 Name | Type | Description | Notes

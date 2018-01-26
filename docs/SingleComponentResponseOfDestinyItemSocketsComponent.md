@@ -1,4 +1,4 @@
-# BungieNetPlatform.BungieNetPlatform.Model.SingleComponentResponseOfDestinyItemSocketsComponent
+# BungieNetPlatform.Model.SingleComponentResponseOfDestinyItemSocketsComponent
 ## Properties
 
 Name | Type | Description | Notes

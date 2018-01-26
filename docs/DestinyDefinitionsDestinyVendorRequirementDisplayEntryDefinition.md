@@ -1,4 +1,4 @@
-# BungieNetPlatform.BungieNetPlatform.Model.DestinyDefinitionsDestinyVendorRequirementDisplayEntryDefinition
+# BungieNetPlatform.Model.DestinyDefinitionsDestinyVendorRequirementDisplayEntryDefinition
 ## Properties
 
 Name | Type | Description | Notes

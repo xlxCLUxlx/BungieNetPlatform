@@ -1,4 +1,4 @@
-# BungieNetPlatform.BungieNetPlatform.Model.DestinyDefinitionsDestinyVendorSaleItemActionBlockDefinition
+# BungieNetPlatform.Model.DestinyDefinitionsDestinyVendorSaleItemActionBlockDefinition
 ## Properties
 
 Name | Type | Description | Notes

@@ -1,4 +1,4 @@
-# BungieNetPlatform.BungieNetPlatform.Model.DestinyBucketScope
+# BungieNetPlatform.Model.DestinyBucketScope
 ## Properties
 
 Name | Type | Description | Notes

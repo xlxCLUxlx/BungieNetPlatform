@@ -1,4 +1,4 @@
-# BungieNetPlatform.BungieNetPlatform.Model.DestinyDefinitionsItemsDestinyPlugRuleDefinition
+# BungieNetPlatform.Model.DestinyDefinitionsItemsDestinyPlugRuleDefinition
 ## Properties
 
 Name | Type | Description | Notes

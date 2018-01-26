@@ -1,4 +1,4 @@
-# BungieNetPlatform.BungieNetPlatform.Model.DestinyDefinitionsLoreDestinyLoreDefinition
+# BungieNetPlatform.Model.DestinyDefinitionsLoreDestinyLoreDefinition
 ## Properties
 
 Name | Type | Description | Notes

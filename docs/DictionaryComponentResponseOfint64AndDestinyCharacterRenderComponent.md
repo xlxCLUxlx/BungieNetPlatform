@@ -1,4 +1,4 @@
-# BungieNetPlatform.BungieNetPlatform.Model.DictionaryComponentResponseOfint64AndDestinyCharacterRenderComponent
+# BungieNetPlatform.Model.DictionaryComponentResponseOfint64AndDestinyCharacterRenderComponent
 ## Properties
 
 Name | Type | Description | Notes

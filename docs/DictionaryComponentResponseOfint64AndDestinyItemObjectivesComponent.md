@@ -1,4 +1,4 @@
-# BungieNetPlatform.BungieNetPlatform.Model.DictionaryComponentResponseOfint64AndDestinyItemObjectivesComponent
+# BungieNetPlatform.Model.DictionaryComponentResponseOfint64AndDestinyItemObjectivesComponent
 ## Properties
 
 Name | Type | Description | Notes

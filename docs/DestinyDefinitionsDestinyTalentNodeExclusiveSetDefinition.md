@@ -1,4 +1,4 @@
-# BungieNetPlatform.BungieNetPlatform.Model.DestinyDefinitionsDestinyTalentNodeExclusiveSetDefinition
+# BungieNetPlatform.Model.DestinyDefinitionsDestinyTalentNodeExclusiveSetDefinition
 ## Properties
 
 Name | Type | Description | Notes

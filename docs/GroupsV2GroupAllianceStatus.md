@@ -1,4 +1,4 @@
-# BungieNetPlatform.BungieNetPlatform.Model.GroupsV2GroupAllianceStatus
+# BungieNetPlatform.Model.GroupsV2GroupAllianceStatus
 ## Properties
 
 Name | Type | Description | Notes

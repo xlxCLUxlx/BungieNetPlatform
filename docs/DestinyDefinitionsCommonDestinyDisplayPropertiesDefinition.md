@@ -1,4 +1,4 @@
-# BungieNetPlatform.BungieNetPlatform.Model.DestinyDefinitionsCommonDestinyDisplayPropertiesDefinition
+# BungieNetPlatform.Model.DestinyDefinitionsCommonDestinyDisplayPropertiesDefinition
 ## Properties
 
 Name | Type | Description | Notes

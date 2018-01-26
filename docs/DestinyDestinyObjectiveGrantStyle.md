@@ -1,4 +1,4 @@
-# BungieNetPlatform.BungieNetPlatform.Model.DestinyDestinyObjectiveGrantStyle
+# BungieNetPlatform.Model.DestinyDestinyObjectiveGrantStyle
 ## Properties
 
 Name | Type | Description | Notes

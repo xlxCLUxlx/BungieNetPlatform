@@ -1,4 +1,4 @@
-# BungieNetPlatform.BungieNetPlatform.Model.DestinyEntitiesCharactersDestinyCharacterActivitiesComponent
+# BungieNetPlatform.Model.DestinyEntitiesCharactersDestinyCharacterActivitiesComponent
 ## Properties
 
 Name | Type | Description | Notes

@@ -1,4 +1,4 @@
-# BungieNetPlatform.BungieNetPlatform.Model.DestinyDefinitionsDestinyActivityGraphListEntryDefinition
+# BungieNetPlatform.Model.DestinyDefinitionsDestinyActivityGraphListEntryDefinition
 ## Properties
 
 Name | Type | Description | Notes

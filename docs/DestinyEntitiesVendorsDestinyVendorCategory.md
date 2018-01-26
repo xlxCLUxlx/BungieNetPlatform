@@ -1,4 +1,4 @@
-# BungieNetPlatform.BungieNetPlatform.Model.DestinyEntitiesVendorsDestinyVendorCategory
+# BungieNetPlatform.Model.DestinyEntitiesVendorsDestinyVendorCategory
 ## Properties
 
 Name | Type | Description | Notes

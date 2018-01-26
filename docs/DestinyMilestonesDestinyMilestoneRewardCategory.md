@@ -1,4 +1,4 @@
-# BungieNetPlatform.BungieNetPlatform.Model.DestinyMilestonesDestinyMilestoneRewardCategory
+# BungieNetPlatform.Model.DestinyMilestonesDestinyMilestoneRewardCategory
 ## Properties
 
 Name | Type | Description | Notes

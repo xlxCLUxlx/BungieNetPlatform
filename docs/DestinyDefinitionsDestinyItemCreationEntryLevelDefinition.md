@@ -1,4 +1,4 @@
-# BungieNetPlatform.BungieNetPlatform.Model.DestinyDefinitionsDestinyItemCreationEntryLevelDefinition
+# BungieNetPlatform.Model.DestinyDefinitionsDestinyItemCreationEntryLevelDefinition
 ## Properties
 
 Name | Type | Description | Notes

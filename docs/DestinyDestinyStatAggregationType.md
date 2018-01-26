@@ -1,4 +1,4 @@
-# BungieNetPlatform.BungieNetPlatform.Model.DestinyDestinyStatAggregationType
+# BungieNetPlatform.Model.DestinyDestinyStatAggregationType
 ## Properties
 
 Name | Type | Description | Notes

@@ -1,4 +1,4 @@
-# BungieNetPlatform.BungieNetPlatform.Model.ForumForumMediaType
+# BungieNetPlatform.Model.ForumForumMediaType
 ## Properties
 
 Name | Type | Description | Notes

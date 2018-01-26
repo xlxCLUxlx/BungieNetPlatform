@@ -1,4 +1,4 @@
-# BungieNetPlatform.BungieNetPlatform.Model.DestinyDefinitionsDirectorDestinyActivityGraphDisplayObjectiveDefinition
+# BungieNetPlatform.Model.DestinyDefinitionsDirectorDestinyActivityGraphDisplayObjectiveDefinition
 ## Properties
 
 Name | Type | Description | Notes

@@ -1,4 +1,4 @@
-# BungieNetPlatform.BungieNetPlatform.Model.GroupsV2GroupV2ClanInfo
+# BungieNetPlatform.Model.GroupsV2GroupV2ClanInfo
 ## Properties
 
 Name | Type | Description | Notes

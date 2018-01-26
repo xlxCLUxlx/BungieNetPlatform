@@ -1,4 +1,4 @@
-# BungieNetPlatform.BungieNetPlatform.Model.DestinyDefinitionsDestinyObjectiveStatEntryDefinition
+# BungieNetPlatform.Model.DestinyDefinitionsDestinyObjectiveStatEntryDefinition
 ## Properties
 
 Name | Type | Description | Notes

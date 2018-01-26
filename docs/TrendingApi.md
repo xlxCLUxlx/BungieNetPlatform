@@ -1,4 +1,4 @@
-# BungieNetPlatform.BungieNetPlatform.Api.TrendingApi
+# BungieNetPlatform.Api.TrendingApi
 
 All URIs are relative to *https://www.bungie.net/Platform*
 
@@ -21,9 +21,9 @@ Returns trending items for Bungie.net, collapsed into the first page of items pe
 ```csharp
 using System;
 using System.Diagnostics;
-using BungieNetPlatform.BungieNetPlatform.Api;
+using BungieNetPlatform.Api;
 using BungieNetPlatform.Client;
-using BungieNetPlatform.BungieNetPlatform.Model;
+using BungieNetPlatform.Model;
 
 namespace Example
 {
@@ -77,9 +77,9 @@ Returns paginated lists of trending items for a category.
 ```csharp
 using System;
 using System.Diagnostics;
-using BungieNetPlatform.BungieNetPlatform.Api;
+using BungieNetPlatform.Api;
 using BungieNetPlatform.Client;
-using BungieNetPlatform.BungieNetPlatform.Model;
+using BungieNetPlatform.Model;
 
 namespace Example
 {
@@ -139,9 +139,9 @@ Returns the detailed results for a specific trending entry. Note that trending e
 ```csharp
 using System;
 using System.Diagnostics;
-using BungieNetPlatform.BungieNetPlatform.Api;
+using BungieNetPlatform.Api;
 using BungieNetPlatform.Client;
-using BungieNetPlatform.BungieNetPlatform.Model;
+using BungieNetPlatform.Model;
 
 namespace Example
 {

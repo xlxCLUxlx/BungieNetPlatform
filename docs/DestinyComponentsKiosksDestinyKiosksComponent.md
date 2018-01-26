@@ -1,4 +1,4 @@
-# BungieNetPlatform.BungieNetPlatform.Model.DestinyComponentsKiosksDestinyKiosksComponent
+# BungieNetPlatform.Model.DestinyComponentsKiosksDestinyKiosksComponent
 ## Properties
 
 Name | Type | Description | Notes

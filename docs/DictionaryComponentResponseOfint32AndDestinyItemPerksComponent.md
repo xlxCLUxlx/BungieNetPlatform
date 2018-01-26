@@ -1,4 +1,4 @@
-# BungieNetPlatform.BungieNetPlatform.Model.DictionaryComponentResponseOfint32AndDestinyItemPerksComponent
+# BungieNetPlatform.Model.DictionaryComponentResponseOfint32AndDestinyItemPerksComponent
 ## Properties
 
 Name | Type | Description | Notes

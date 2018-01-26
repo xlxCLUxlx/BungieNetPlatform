@@ -1,4 +1,4 @@
-# BungieNetPlatform.BungieNetPlatform.Model.DestinyDefinitionsDestinyItemSocketBlockDefinition
+# BungieNetPlatform.Model.DestinyDefinitionsDestinyItemSocketBlockDefinition
 ## Properties
 
 Name | Type | Description | Notes

@@ -1,4 +1,4 @@
-# BungieNetPlatform.BungieNetPlatform.Model.GroupsV2GroupOptionalConversation
+# BungieNetPlatform.Model.GroupsV2GroupOptionalConversation
 ## Properties
 
 Name | Type | Description | Notes

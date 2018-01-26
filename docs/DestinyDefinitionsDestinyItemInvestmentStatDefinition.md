@@ -1,4 +1,4 @@
-# BungieNetPlatform.BungieNetPlatform.Model.DestinyDefinitionsDestinyItemInvestmentStatDefinition
+# BungieNetPlatform.Model.DestinyDefinitionsDestinyItemInvestmentStatDefinition
 ## Properties
 
 Name | Type | Description | Notes

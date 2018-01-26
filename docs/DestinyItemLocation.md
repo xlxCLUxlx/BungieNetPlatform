@@ -1,4 +1,4 @@
-# BungieNetPlatform.BungieNetPlatform.Model.DestinyItemLocation
+# BungieNetPlatform.Model.DestinyItemLocation
 ## Properties
 
 Name | Type | Description | Notes

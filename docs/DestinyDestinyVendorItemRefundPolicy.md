@@ -1,4 +1,4 @@
-# BungieNetPlatform.BungieNetPlatform.Model.DestinyDestinyVendorItemRefundPolicy
+# BungieNetPlatform.Model.DestinyDestinyVendorItemRefundPolicy
 ## Properties
 
 Name | Type | Description | Notes

@@ -1,4 +1,4 @@
-# BungieNetPlatform.BungieNetPlatform.Model.LinksHyperlinkReference
+# BungieNetPlatform.Model.LinksHyperlinkReference
 ## Properties
 
 Name | Type | Description | Notes

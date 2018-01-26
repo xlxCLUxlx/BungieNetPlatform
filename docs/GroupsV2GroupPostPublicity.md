@@ -1,4 +1,4 @@
-# BungieNetPlatform.BungieNetPlatform.Model.GroupsV2GroupPostPublicity
+# BungieNetPlatform.Model.GroupsV2GroupPostPublicity
 ## Properties
 
 Name | Type | Description | Notes

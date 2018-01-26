@@ -1,4 +1,4 @@
-# BungieNetPlatform.BungieNetPlatform.Model.GroupsV2GroupMemberApplication
+# BungieNetPlatform.Model.GroupsV2GroupMemberApplication
 ## Properties
 
 Name | Type | Description | Notes

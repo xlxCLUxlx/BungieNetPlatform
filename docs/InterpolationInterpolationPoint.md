@@ -1,4 +1,4 @@
-# BungieNetPlatform.BungieNetPlatform.Model.InterpolationInterpolationPoint
+# BungieNetPlatform.Model.InterpolationInterpolationPoint
 ## Properties
 
 Name | Type | Description | Notes

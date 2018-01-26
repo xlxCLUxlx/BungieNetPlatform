@@ -1,4 +1,4 @@
-# BungieNetPlatform.BungieNetPlatform.Model.DestinyEntitiesInventoryDestinyInventoryComponent
+# BungieNetPlatform.Model.DestinyEntitiesInventoryDestinyInventoryComponent
 ## Properties
 
 Name | Type | Description | Notes

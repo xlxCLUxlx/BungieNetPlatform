@@ -1,4 +1,4 @@
-# BungieNetPlatform.BungieNetPlatform.Model.DestinyDefinitionsDestinyStatOverrideDefinition
+# BungieNetPlatform.Model.DestinyDefinitionsDestinyStatOverrideDefinition
 ## Properties
 
 Name | Type | Description | Notes

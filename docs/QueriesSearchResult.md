@@ -1,4 +1,4 @@
-# BungieNetPlatform.BungieNetPlatform.Model.QueriesSearchResult
+# BungieNetPlatform.Model.QueriesSearchResult
 ## Properties
 
 Name | Type | Description | Notes

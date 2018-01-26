@@ -1,4 +1,4 @@
-# BungieNetPlatform.BungieNetPlatform.Model.ForumCommunityContentSortMode
+# BungieNetPlatform.Model.ForumCommunityContentSortMode
 ## Properties
 
 Name | Type | Description | Notes

@@ -1,4 +1,4 @@
-# BungieNetPlatform.BungieNetPlatform.Model.DestinyDestinyProgressionScope
+# BungieNetPlatform.Model.DestinyDestinyProgressionScope
 ## Properties
 
 Name | Type | Description | Notes

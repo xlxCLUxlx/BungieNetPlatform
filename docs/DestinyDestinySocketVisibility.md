@@ -1,4 +1,4 @@
-# BungieNetPlatform.BungieNetPlatform.Model.DestinyDestinySocketVisibility
+# BungieNetPlatform.Model.DestinyDestinySocketVisibility
 ## Properties
 
 Name | Type | Description | Notes

@@ -1,4 +1,4 @@
-# BungieNetPlatform.BungieNetPlatform.Model.DestinyDefinitionsDestinyGearArtArrangementReference
+# BungieNetPlatform.Model.DestinyDefinitionsDestinyGearArtArrangementReference
 ## Properties
 
 Name | Type | Description | Notes

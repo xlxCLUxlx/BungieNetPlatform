@@ -1,4 +1,4 @@
-# BungieNetPlatform.BungieNetPlatform.Model.ForumForumFlagsEnum
+# BungieNetPlatform.Model.ForumForumFlagsEnum
 ## Properties
 
 Name | Type | Description | Notes

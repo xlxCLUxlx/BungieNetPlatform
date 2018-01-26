@@ -1,4 +1,4 @@
-# BungieNetPlatform.BungieNetPlatform.Model.DestinyComponentsItemsDestinyItemPlugComponent
+# BungieNetPlatform.Model.DestinyComponentsItemsDestinyItemPlugComponent
 ## Properties
 
 Name | Type | Description | Notes

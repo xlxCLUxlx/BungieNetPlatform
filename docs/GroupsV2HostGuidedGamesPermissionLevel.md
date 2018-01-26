@@ -1,4 +1,4 @@
-# BungieNetPlatform.BungieNetPlatform.Model.GroupsV2HostGuidedGamesPermissionLevel
+# BungieNetPlatform.Model.GroupsV2HostGuidedGamesPermissionLevel
 ## Properties
 
 Name | Type | Description | Notes

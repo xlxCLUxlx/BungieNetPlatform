@@ -1,4 +1,4 @@
-# BungieNetPlatform.BungieNetPlatform.Model.TagsModelsContractsTagResponse
+# BungieNetPlatform.Model.TagsModelsContractsTagResponse
 ## Properties
 
 Name | Type | Description | Notes

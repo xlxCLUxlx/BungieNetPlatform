@@ -1,4 +1,4 @@
-# BungieNetPlatform.BungieNetPlatform.Model.DestinyEntitiesCharactersDestinyCharacterProgressionComponent
+# BungieNetPlatform.Model.DestinyEntitiesCharactersDestinyCharacterProgressionComponent
 ## Properties
 
 Name | Type | Description | Notes

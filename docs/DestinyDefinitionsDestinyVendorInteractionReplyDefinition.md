@@ -1,4 +1,4 @@
-# BungieNetPlatform.BungieNetPlatform.Model.DestinyDefinitionsDestinyVendorInteractionReplyDefinition
+# BungieNetPlatform.Model.DestinyDefinitionsDestinyVendorInteractionReplyDefinition
 ## Properties
 
 Name | Type | Description | Notes

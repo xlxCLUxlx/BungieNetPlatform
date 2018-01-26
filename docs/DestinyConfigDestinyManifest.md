@@ -1,4 +1,4 @@
-# BungieNetPlatform.BungieNetPlatform.Model.DestinyConfigDestinyManifest
+# BungieNetPlatform.Model.DestinyConfigDestinyManifest
 ## Properties
 
 Name | Type | Description | Notes

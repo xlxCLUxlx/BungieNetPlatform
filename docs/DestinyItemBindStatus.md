@@ -1,4 +1,4 @@
-# BungieNetPlatform.BungieNetPlatform.Model.DestinyItemBindStatus
+# BungieNetPlatform.Model.DestinyItemBindStatus
 ## Properties
 
 Name | Type | Description | Notes

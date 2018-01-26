@@ -1,4 +1,4 @@
-# BungieNetPlatform.BungieNetPlatform.Api.GroupV2Api
+# BungieNetPlatform.Api.GroupV2Api
 
 All URIs are relative to *https://www.bungie.net/Platform*
 
@@ -54,9 +54,9 @@ An administrative method to allow the founder of a group or clan to give up thei
 ```csharp
 using System;
 using System.Diagnostics;
-using BungieNetPlatform.BungieNetPlatform.Api;
+using BungieNetPlatform.Api;
 using BungieNetPlatform.Client;
-using BungieNetPlatform.BungieNetPlatform.Model;
+using BungieNetPlatform.Model;
 
 namespace Example
 {
@@ -118,9 +118,9 @@ Add a new optional conversation/chat channel. Requires admin permissions to the 
 ```csharp
 using System;
 using System.Diagnostics;
-using BungieNetPlatform.BungieNetPlatform.Api;
+using BungieNetPlatform.Api;
 using BungieNetPlatform.Client;
-using BungieNetPlatform.BungieNetPlatform.Model;
+using BungieNetPlatform.Model;
 
 namespace Example
 {
@@ -181,9 +181,9 @@ Approve all of the pending users for the given group.
 ```csharp
 using System;
 using System.Diagnostics;
-using BungieNetPlatform.BungieNetPlatform.Api;
+using BungieNetPlatform.Api;
 using BungieNetPlatform.Client;
-using BungieNetPlatform.BungieNetPlatform.Model;
+using BungieNetPlatform.Model;
 
 namespace Example
 {
@@ -244,9 +244,9 @@ Approve the given membershipId to join the group/clan as long as they have appli
 ```csharp
 using System;
 using System.Diagnostics;
-using BungieNetPlatform.BungieNetPlatform.Api;
+using BungieNetPlatform.Api;
 using BungieNetPlatform.Client;
-using BungieNetPlatform.BungieNetPlatform.Model;
+using BungieNetPlatform.Model;
 
 namespace Example
 {
@@ -311,9 +311,9 @@ Approve all of the pending users for the given group.
 ```csharp
 using System;
 using System.Diagnostics;
-using BungieNetPlatform.BungieNetPlatform.Api;
+using BungieNetPlatform.Api;
 using BungieNetPlatform.Client;
-using BungieNetPlatform.BungieNetPlatform.Model;
+using BungieNetPlatform.Model;
 
 namespace Example
 {
@@ -374,9 +374,9 @@ Bans the requested member from the requested group for the specified period of t
 ```csharp
 using System;
 using System.Diagnostics;
-using BungieNetPlatform.BungieNetPlatform.Api;
+using BungieNetPlatform.Api;
 using BungieNetPlatform.Client;
-using BungieNetPlatform.BungieNetPlatform.Model;
+using BungieNetPlatform.Model;
 
 namespace Example
 {
@@ -441,9 +441,9 @@ Create a new group.
 ```csharp
 using System;
 using System.Diagnostics;
-using BungieNetPlatform.BungieNetPlatform.Api;
+using BungieNetPlatform.Api;
 using BungieNetPlatform.Client;
-using BungieNetPlatform.BungieNetPlatform.Model;
+using BungieNetPlatform.Model;
 
 namespace Example
 {
@@ -500,9 +500,9 @@ Deny all of the pending users for the given group.
 ```csharp
 using System;
 using System.Diagnostics;
-using BungieNetPlatform.BungieNetPlatform.Api;
+using BungieNetPlatform.Api;
 using BungieNetPlatform.Client;
-using BungieNetPlatform.BungieNetPlatform.Model;
+using BungieNetPlatform.Model;
 
 namespace Example
 {
@@ -563,9 +563,9 @@ Deny all of the pending users for the given group that match the passed-in .
 ```csharp
 using System;
 using System.Diagnostics;
-using BungieNetPlatform.BungieNetPlatform.Api;
+using BungieNetPlatform.Api;
 using BungieNetPlatform.Client;
-using BungieNetPlatform.BungieNetPlatform.Model;
+using BungieNetPlatform.Model;
 
 namespace Example
 {
@@ -626,9 +626,9 @@ Edit an existing group's clan banner. You must have suitable permissions in the 
 ```csharp
 using System;
 using System.Diagnostics;
-using BungieNetPlatform.BungieNetPlatform.Api;
+using BungieNetPlatform.Api;
 using BungieNetPlatform.Client;
-using BungieNetPlatform.BungieNetPlatform.Model;
+using BungieNetPlatform.Model;
 
 namespace Example
 {
@@ -689,9 +689,9 @@ Edit group options only available to a founder. You must have suitable permissio
 ```csharp
 using System;
 using System.Diagnostics;
-using BungieNetPlatform.BungieNetPlatform.Api;
+using BungieNetPlatform.Api;
 using BungieNetPlatform.Client;
-using BungieNetPlatform.BungieNetPlatform.Model;
+using BungieNetPlatform.Model;
 
 namespace Example
 {
@@ -752,9 +752,9 @@ Edit an existing group. You must have suitable permissions in the group to perfo
 ```csharp
 using System;
 using System.Diagnostics;
-using BungieNetPlatform.BungieNetPlatform.Api;
+using BungieNetPlatform.Api;
 using BungieNetPlatform.Client;
-using BungieNetPlatform.BungieNetPlatform.Model;
+using BungieNetPlatform.Model;
 
 namespace Example
 {
@@ -815,9 +815,9 @@ Edit the membership type of a given member. You must have suitable permissions i
 ```csharp
 using System;
 using System.Diagnostics;
-using BungieNetPlatform.BungieNetPlatform.Api;
+using BungieNetPlatform.Api;
 using BungieNetPlatform.Client;
-using BungieNetPlatform.BungieNetPlatform.Model;
+using BungieNetPlatform.Model;
 
 namespace Example
 {
@@ -884,9 +884,9 @@ Edit the settings of an optional conversation/chat channel. Requires admin permi
 ```csharp
 using System;
 using System.Diagnostics;
-using BungieNetPlatform.BungieNetPlatform.Api;
+using BungieNetPlatform.Api;
 using BungieNetPlatform.Client;
-using BungieNetPlatform.BungieNetPlatform.Model;
+using BungieNetPlatform.Model;
 
 namespace Example
 {
@@ -949,9 +949,9 @@ Get the list of members in a given group who are of admin level or higher.
 ```csharp
 using System;
 using System.Diagnostics;
-using BungieNetPlatform.BungieNetPlatform.Api;
+using BungieNetPlatform.Api;
 using BungieNetPlatform.Client;
-using BungieNetPlatform.BungieNetPlatform.Model;
+using BungieNetPlatform.Model;
 
 namespace Example
 {
@@ -1011,9 +1011,9 @@ Returns a list of all available group avatars for the signed-in user.
 ```csharp
 using System;
 using System.Diagnostics;
-using BungieNetPlatform.BungieNetPlatform.Api;
+using BungieNetPlatform.Api;
 using BungieNetPlatform.Client;
-using BungieNetPlatform.BungieNetPlatform.Model;
+using BungieNetPlatform.Model;
 
 namespace Example
 {
@@ -1067,9 +1067,9 @@ Returns a list of all available group themes.
 ```csharp
 using System;
 using System.Diagnostics;
-using BungieNetPlatform.BungieNetPlatform.Api;
+using BungieNetPlatform.Api;
 using BungieNetPlatform.Client;
-using BungieNetPlatform.BungieNetPlatform.Model;
+using BungieNetPlatform.Model;
 
 namespace Example
 {
@@ -1123,9 +1123,9 @@ Get the list of banned members in a given group. Only accessible to group Admins
 ```csharp
 using System;
 using System.Diagnostics;
-using BungieNetPlatform.BungieNetPlatform.Api;
+using BungieNetPlatform.Api;
 using BungieNetPlatform.Client;
-using BungieNetPlatform.BungieNetPlatform.Model;
+using BungieNetPlatform.Model;
 
 namespace Example
 {
@@ -1188,9 +1188,9 @@ Get information about a specific group of the given ID.
 ```csharp
 using System;
 using System.Diagnostics;
-using BungieNetPlatform.BungieNetPlatform.Api;
+using BungieNetPlatform.Api;
 using BungieNetPlatform.Client;
-using BungieNetPlatform.BungieNetPlatform.Model;
+using BungieNetPlatform.Model;
 
 namespace Example
 {
@@ -1248,9 +1248,9 @@ Get information about a specific group with the given name and type.
 ```csharp
 using System;
 using System.Diagnostics;
-using BungieNetPlatform.BungieNetPlatform.Api;
+using BungieNetPlatform.Api;
 using BungieNetPlatform.Client;
-using BungieNetPlatform.BungieNetPlatform.Model;
+using BungieNetPlatform.Model;
 
 namespace Example
 {
@@ -1310,9 +1310,9 @@ Gets a list of available optional conversation channels and their settings.
 ```csharp
 using System;
 using System.Diagnostics;
-using BungieNetPlatform.BungieNetPlatform.Api;
+using BungieNetPlatform.Api;
 using BungieNetPlatform.Client;
-using BungieNetPlatform.BungieNetPlatform.Model;
+using BungieNetPlatform.Model;
 
 namespace Example
 {
@@ -1370,9 +1370,9 @@ Get information about the groups that a given member has joined.
 ```csharp
 using System;
 using System.Diagnostics;
-using BungieNetPlatform.BungieNetPlatform.Api;
+using BungieNetPlatform.Api;
 using BungieNetPlatform.Client;
-using BungieNetPlatform.BungieNetPlatform.Model;
+using BungieNetPlatform.Model;
 
 namespace Example
 {
@@ -1436,9 +1436,9 @@ Get the list of users who have been invited into the group.
 ```csharp
 using System;
 using System.Diagnostics;
-using BungieNetPlatform.BungieNetPlatform.Api;
+using BungieNetPlatform.Api;
 using BungieNetPlatform.Client;
-using BungieNetPlatform.BungieNetPlatform.Model;
+using BungieNetPlatform.Model;
 
 namespace Example
 {
@@ -1501,9 +1501,9 @@ Get the list of members in a given group.
 ```csharp
 using System;
 using System.Diagnostics;
-using BungieNetPlatform.BungieNetPlatform.Api;
+using BungieNetPlatform.Api;
 using BungieNetPlatform.Client;
-using BungieNetPlatform.BungieNetPlatform.Model;
+using BungieNetPlatform.Model;
 
 namespace Example
 {
@@ -1567,9 +1567,9 @@ Get the list of users who are awaiting a decision on their application to join a
 ```csharp
 using System;
 using System.Diagnostics;
-using BungieNetPlatform.BungieNetPlatform.Api;
+using BungieNetPlatform.Api;
 using BungieNetPlatform.Client;
-using BungieNetPlatform.BungieNetPlatform.Model;
+using BungieNetPlatform.Model;
 
 namespace Example
 {
@@ -1632,9 +1632,9 @@ Get information about the groups that a given member has applied to or been invi
 ```csharp
 using System;
 using System.Diagnostics;
-using BungieNetPlatform.BungieNetPlatform.Api;
+using BungieNetPlatform.Api;
 using BungieNetPlatform.Client;
-using BungieNetPlatform.BungieNetPlatform.Model;
+using BungieNetPlatform.Model;
 
 namespace Example
 {
@@ -1698,9 +1698,9 @@ Gets groups recommended for you based on the groups to whom those you follow bel
 ```csharp
 using System;
 using System.Diagnostics;
-using BungieNetPlatform.BungieNetPlatform.Api;
+using BungieNetPlatform.Api;
 using BungieNetPlatform.Client;
-using BungieNetPlatform.BungieNetPlatform.Model;
+using BungieNetPlatform.Model;
 
 namespace Example
 {
@@ -1763,9 +1763,9 @@ Gets the state of the user's clan invite preferences for a particular membership
 ```csharp
 using System;
 using System.Diagnostics;
-using BungieNetPlatform.BungieNetPlatform.Api;
+using BungieNetPlatform.Api;
 using BungieNetPlatform.Client;
-using BungieNetPlatform.BungieNetPlatform.Model;
+using BungieNetPlatform.Model;
 
 namespace Example
 {
@@ -1826,9 +1826,9 @@ Search for Groups.
 ```csharp
 using System;
 using System.Diagnostics;
-using BungieNetPlatform.BungieNetPlatform.Api;
+using BungieNetPlatform.Api;
 using BungieNetPlatform.Client;
-using BungieNetPlatform.BungieNetPlatform.Model;
+using BungieNetPlatform.Model;
 
 namespace Example
 {
@@ -1882,9 +1882,9 @@ Invite a user to join this group.
 ```csharp
 using System;
 using System.Diagnostics;
-using BungieNetPlatform.BungieNetPlatform.Api;
+using BungieNetPlatform.Api;
 using BungieNetPlatform.Client;
-using BungieNetPlatform.BungieNetPlatform.Model;
+using BungieNetPlatform.Model;
 
 namespace Example
 {
@@ -1949,9 +1949,9 @@ Cancels a pending invitation to join a group.
 ```csharp
 using System;
 using System.Diagnostics;
-using BungieNetPlatform.BungieNetPlatform.Api;
+using BungieNetPlatform.Api;
 using BungieNetPlatform.Client;
-using BungieNetPlatform.BungieNetPlatform.Model;
+using BungieNetPlatform.Model;
 
 namespace Example
 {
@@ -2016,9 +2016,9 @@ Kick a member from the given group, forcing them to reapply if they wish to re-j
 ```csharp
 using System;
 using System.Diagnostics;
-using BungieNetPlatform.BungieNetPlatform.Api;
+using BungieNetPlatform.Api;
 using BungieNetPlatform.Client;
-using BungieNetPlatform.BungieNetPlatform.Model;
+using BungieNetPlatform.Model;
 
 namespace Example
 {
@@ -2083,9 +2083,9 @@ Request permission to join the given group.
 ```csharp
 using System;
 using System.Diagnostics;
-using BungieNetPlatform.BungieNetPlatform.Api;
+using BungieNetPlatform.Api;
 using BungieNetPlatform.Client;
-using BungieNetPlatform.BungieNetPlatform.Model;
+using BungieNetPlatform.Model;
 
 namespace Example
 {
@@ -2148,9 +2148,9 @@ Rescind your application to join the given group or leave the group if you are a
 ```csharp
 using System;
 using System.Diagnostics;
-using BungieNetPlatform.BungieNetPlatform.Api;
+using BungieNetPlatform.Api;
 using BungieNetPlatform.Client;
-using BungieNetPlatform.BungieNetPlatform.Model;
+using BungieNetPlatform.Model;
 
 namespace Example
 {
@@ -2213,9 +2213,9 @@ Sets the state of the user's clan invite preferences - true if they wish to be i
 ```csharp
 using System;
 using System.Diagnostics;
-using BungieNetPlatform.BungieNetPlatform.Api;
+using BungieNetPlatform.Api;
 using BungieNetPlatform.Client;
-using BungieNetPlatform.BungieNetPlatform.Model;
+using BungieNetPlatform.Model;
 
 namespace Example
 {
@@ -2278,9 +2278,9 @@ Unbans the requested member, allowing them to re-apply for membership.
 ```csharp
 using System;
 using System.Diagnostics;
-using BungieNetPlatform.BungieNetPlatform.Api;
+using BungieNetPlatform.Api;
 using BungieNetPlatform.Client;
-using BungieNetPlatform.BungieNetPlatform.Model;
+using BungieNetPlatform.Model;
 
 namespace Example
 {

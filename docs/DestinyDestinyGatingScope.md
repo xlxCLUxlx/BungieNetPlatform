@@ -1,4 +1,4 @@
-# BungieNetPlatform.BungieNetPlatform.Model.DestinyDestinyGatingScope
+# BungieNetPlatform.Model.DestinyDestinyGatingScope
 ## Properties
 
 Name | Type | Description | Notes

@@ -1,4 +1,4 @@
-# BungieNetPlatform.BungieNetPlatform.Model.UserUserInfoCard
+# BungieNetPlatform.Model.UserUserInfoCard
 ## Properties
 
 Name | Type | Description | Notes

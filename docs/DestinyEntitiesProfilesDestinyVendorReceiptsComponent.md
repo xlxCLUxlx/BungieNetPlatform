@@ -1,4 +1,4 @@
-# BungieNetPlatform.BungieNetPlatform.Model.DestinyEntitiesProfilesDestinyVendorReceiptsComponent
+# BungieNetPlatform.Model.DestinyEntitiesProfilesDestinyVendorReceiptsComponent
 ## Properties
 
 Name | Type | Description | Notes

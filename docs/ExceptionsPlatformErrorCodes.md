@@ -1,4 +1,4 @@
-# BungieNetPlatform.BungieNetPlatform.Model.ExceptionsPlatformErrorCodes
+# BungieNetPlatform.Model.ExceptionsPlatformErrorCodes
 ## Properties
 
 Name | Type | Description | Notes

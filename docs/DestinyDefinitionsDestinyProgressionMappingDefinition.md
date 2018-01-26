@@ -1,4 +1,4 @@
-# BungieNetPlatform.BungieNetPlatform.Model.DestinyDefinitionsDestinyProgressionMappingDefinition
+# BungieNetPlatform.Model.DestinyDefinitionsDestinyProgressionMappingDefinition
 ## Properties
 
 Name | Type | Description | Notes

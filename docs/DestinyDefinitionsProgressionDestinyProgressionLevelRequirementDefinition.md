@@ -1,4 +1,4 @@
-# BungieNetPlatform.BungieNetPlatform.Model.DestinyDefinitionsProgressionDestinyProgressionLevelRequirementDefinition
+# BungieNetPlatform.Model.DestinyDefinitionsProgressionDestinyProgressionLevelRequirementDefinition
 ## Properties
 
 Name | Type | Description | Notes

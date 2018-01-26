@@ -1,4 +1,4 @@
-# BungieNetPlatform.BungieNetPlatform.Model.DestinyQuestsDestinyObjectiveProgress
+# BungieNetPlatform.Model.DestinyQuestsDestinyObjectiveProgress
 ## Properties
 
 Name | Type | Description | Notes

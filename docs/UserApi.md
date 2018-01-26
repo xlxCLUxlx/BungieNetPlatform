@@ -1,4 +1,4 @@
-# BungieNetPlatform.BungieNetPlatform.Api.UserApi
+# BungieNetPlatform.Api.UserApi
 
 All URIs are relative to *https://www.bungie.net/Platform*
 
@@ -25,9 +25,9 @@ Returns a list of all available user themes.
 ```csharp
 using System;
 using System.Diagnostics;
-using BungieNetPlatform.BungieNetPlatform.Api;
+using BungieNetPlatform.Api;
 using BungieNetPlatform.Client;
-using BungieNetPlatform.BungieNetPlatform.Model;
+using BungieNetPlatform.Model;
 
 namespace Example
 {
@@ -81,9 +81,9 @@ Loads a bungienet user by membership id.
 ```csharp
 using System;
 using System.Diagnostics;
-using BungieNetPlatform.BungieNetPlatform.Api;
+using BungieNetPlatform.Api;
 using BungieNetPlatform.Client;
-using BungieNetPlatform.BungieNetPlatform.Model;
+using BungieNetPlatform.Model;
 
 namespace Example
 {
@@ -141,9 +141,9 @@ Returns a list of accounts associated with the supplied membership ID and member
 ```csharp
 using System;
 using System.Diagnostics;
-using BungieNetPlatform.BungieNetPlatform.Api;
+using BungieNetPlatform.Api;
 using BungieNetPlatform.Client;
-using BungieNetPlatform.BungieNetPlatform.Model;
+using BungieNetPlatform.Model;
 
 namespace Example
 {
@@ -203,9 +203,9 @@ Returns a list of accounts associated with signed in user. This is useful for OA
 ```csharp
 using System;
 using System.Diagnostics;
-using BungieNetPlatform.BungieNetPlatform.Api;
+using BungieNetPlatform.Api;
 using BungieNetPlatform.Client;
-using BungieNetPlatform.BungieNetPlatform.Model;
+using BungieNetPlatform.Model;
 
 namespace Example
 {
@@ -262,9 +262,9 @@ Returns a user's linked Partnerships.
 ```csharp
 using System;
 using System.Diagnostics;
-using BungieNetPlatform.BungieNetPlatform.Api;
+using BungieNetPlatform.Api;
 using BungieNetPlatform.Client;
-using BungieNetPlatform.BungieNetPlatform.Model;
+using BungieNetPlatform.Model;
 
 namespace Example
 {
@@ -322,9 +322,9 @@ Loads aliases of a bungienet membership id.
 ```csharp
 using System;
 using System.Diagnostics;
-using BungieNetPlatform.BungieNetPlatform.Api;
+using BungieNetPlatform.Api;
 using BungieNetPlatform.Client;
-using BungieNetPlatform.BungieNetPlatform.Model;
+using BungieNetPlatform.Model;
 
 namespace Example
 {
@@ -382,9 +382,9 @@ Returns a list of possible users based on the search string
 ```csharp
 using System;
 using System.Diagnostics;
-using BungieNetPlatform.BungieNetPlatform.Api;
+using BungieNetPlatform.Api;
 using BungieNetPlatform.Client;
-using BungieNetPlatform.BungieNetPlatform.Model;
+using BungieNetPlatform.Model;
 
 namespace Example
 {

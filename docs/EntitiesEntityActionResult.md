@@ -1,4 +1,4 @@
-# BungieNetPlatform.BungieNetPlatform.Model.EntitiesEntityActionResult
+# BungieNetPlatform.Model.EntitiesEntityActionResult
 ## Properties
 
 Name | Type | Description | Notes

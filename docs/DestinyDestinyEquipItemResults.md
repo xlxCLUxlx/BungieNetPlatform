@@ -1,4 +1,4 @@
-# BungieNetPlatform.BungieNetPlatform.Model.DestinyDestinyEquipItemResults
+# BungieNetPlatform.Model.DestinyDestinyEquipItemResults
 ## Properties
 
 Name | Type | Description | Notes

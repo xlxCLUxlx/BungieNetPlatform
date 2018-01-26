@@ -1,4 +1,4 @@
-# BungieNetPlatform.BungieNetPlatform.Model.DestinyMilestonesDestinyPublicMilestone
+# BungieNetPlatform.Model.DestinyMilestonesDestinyPublicMilestone
 ## Properties
 
 Name | Type | Description | Notes

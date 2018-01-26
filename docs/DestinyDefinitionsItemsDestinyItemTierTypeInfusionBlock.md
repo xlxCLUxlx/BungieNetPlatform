@@ -1,4 +1,4 @@
-# BungieNetPlatform.BungieNetPlatform.Model.DestinyDefinitionsItemsDestinyItemTierTypeInfusionBlock
+# BungieNetPlatform.Model.DestinyDefinitionsItemsDestinyItemTierTypeInfusionBlock
 ## Properties
 
 Name | Type | Description | Notes

@@ -1,4 +1,4 @@
-# BungieNetPlatform.BungieNetPlatform.Model.DestinyTransferStatuses
+# BungieNetPlatform.Model.DestinyTransferStatuses
 ## Properties
 
 Name | Type | Description | Notes

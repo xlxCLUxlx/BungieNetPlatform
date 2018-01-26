@@ -1,4 +1,4 @@
-# BungieNetPlatform.BungieNetPlatform.Model.DestinyDefinitionsDestinyNodeSocketReplaceResponse
+# BungieNetPlatform.Model.DestinyDefinitionsDestinyNodeSocketReplaceResponse
 ## Properties
 
 Name | Type | Description | Notes

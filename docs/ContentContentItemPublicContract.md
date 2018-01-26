@@ -1,4 +1,4 @@
-# BungieNetPlatform.BungieNetPlatform.Model.ContentContentItemPublicContract
+# BungieNetPlatform.Model.ContentContentItemPublicContract
 ## Properties
 
 Name | Type | Description | Notes

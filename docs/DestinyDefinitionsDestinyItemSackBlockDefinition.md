@@ -1,4 +1,4 @@
-# BungieNetPlatform.BungieNetPlatform.Model.DestinyDefinitionsDestinyItemSackBlockDefinition
+# BungieNetPlatform.Model.DestinyDefinitionsDestinyItemSackBlockDefinition
 ## Properties
 
 Name | Type | Description | Notes

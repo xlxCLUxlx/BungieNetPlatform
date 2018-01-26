@@ -1,4 +1,4 @@
-# BungieNetPlatform.BungieNetPlatform.Model.DestinyDefinitionsMilestonesDestinyMilestoneQuestRewardsDefinition
+# BungieNetPlatform.Model.DestinyDefinitionsMilestonesDestinyMilestoneQuestRewardsDefinition
 ## Properties
 
 Name | Type | Description | Notes

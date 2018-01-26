@@ -1,4 +1,4 @@
-# BungieNetPlatform.BungieNetPlatform.Model.DestinyDefinitionsDestinyTalentGridDefinition
+# BungieNetPlatform.Model.DestinyDefinitionsDestinyTalentGridDefinition
 ## Properties
 
 Name | Type | Description | Notes

@@ -1,4 +1,4 @@
-# BungieNetPlatform.BungieNetPlatform.Model.DictionaryComponentResponseOfint64AndDestinyItemTalentGridComponent
+# BungieNetPlatform.Model.DictionaryComponentResponseOfint64AndDestinyItemTalentGridComponent
 ## Properties
 
 Name | Type | Description | Notes

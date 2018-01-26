@@ -1,4 +1,4 @@
-# BungieNetPlatform.BungieNetPlatform.Model.SingleComponentResponseOfDestinyInventoryComponent
+# BungieNetPlatform.Model.SingleComponentResponseOfDestinyInventoryComponent
 ## Properties
 
 Name | Type | Description | Notes

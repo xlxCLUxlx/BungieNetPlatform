@@ -1,4 +1,4 @@
-# BungieNetPlatform.BungieNetPlatform.Model.DestinyDefinitionsDestinyDamageTypeDefinition
+# BungieNetPlatform.Model.DestinyDefinitionsDestinyDamageTypeDefinition
 ## Properties
 
 Name | Type | Description | Notes

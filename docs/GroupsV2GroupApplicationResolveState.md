@@ -1,4 +1,4 @@
-# BungieNetPlatform.BungieNetPlatform.Model.GroupsV2GroupApplicationResolveState
+# BungieNetPlatform.Model.GroupsV2GroupApplicationResolveState
 ## Properties
 
 Name | Type | Description | Notes

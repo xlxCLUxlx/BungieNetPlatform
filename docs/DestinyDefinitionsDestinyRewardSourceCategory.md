@@ -1,4 +1,4 @@
-# BungieNetPlatform.BungieNetPlatform.Model.DestinyDefinitionsDestinyRewardSourceCategory
+# BungieNetPlatform.Model.DestinyDefinitionsDestinyRewardSourceCategory
 ## Properties
 
 Name | Type | Description | Notes

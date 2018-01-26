@@ -1,4 +1,4 @@
-# BungieNetPlatform.BungieNetPlatform.Model.DestinyDefinitionsDestinySandboxPerkDefinition
+# BungieNetPlatform.Model.DestinyDefinitionsDestinySandboxPerkDefinition
 ## Properties
 
 Name | Type | Description | Notes

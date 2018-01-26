@@ -1,4 +1,4 @@
-# BungieNetPlatform.BungieNetPlatform.Model.DestinyDefinitionsDestinyItemSetBlockEntryDefinition
+# BungieNetPlatform.Model.DestinyDefinitionsDestinyItemSetBlockEntryDefinition
 ## Properties
 
 Name | Type | Description | Notes

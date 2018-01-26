@@ -1,4 +1,4 @@
-# BungieNetPlatform.BungieNetPlatform.Model.DestinyDestinyUnlockValueUIStyle
+# BungieNetPlatform.Model.DestinyDestinyUnlockValueUIStyle
 ## Properties
 
 Name | Type | Description | Notes

@@ -1,4 +1,4 @@
-# BungieNetPlatform.BungieNetPlatform.Model.TrendingTrendingCategory
+# BungieNetPlatform.Model.TrendingTrendingCategory
 ## Properties
 
 Name | Type | Description | Notes

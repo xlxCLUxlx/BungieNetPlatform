@@ -1,4 +1,4 @@
-# BungieNetPlatform.BungieNetPlatform.Model.DestinyActivityGraphNodeHighlightType
+# BungieNetPlatform.Model.DestinyActivityGraphNodeHighlightType
 ## Properties
 
 Name | Type | Description | Notes

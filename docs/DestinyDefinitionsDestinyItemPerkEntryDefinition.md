@@ -1,4 +1,4 @@
-# BungieNetPlatform.BungieNetPlatform.Model.DestinyDefinitionsDestinyItemPerkEntryDefinition
+# BungieNetPlatform.Model.DestinyDefinitionsDestinyItemPerkEntryDefinition
 ## Properties
 
 Name | Type | Description | Notes

@@ -1,4 +1,4 @@
-# BungieNetPlatform.BungieNetPlatform.Model.SingleComponentResponseOfDestinyItemObjectivesComponent
+# BungieNetPlatform.Model.SingleComponentResponseOfDestinyItemObjectivesComponent
 ## Properties
 
 Name | Type | Description | Notes

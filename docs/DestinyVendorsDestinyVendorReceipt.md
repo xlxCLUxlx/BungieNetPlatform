@@ -1,4 +1,4 @@
-# BungieNetPlatform.BungieNetPlatform.Model.DestinyVendorsDestinyVendorReceipt
+# BungieNetPlatform.Model.DestinyVendorsDestinyVendorReceipt
 ## Properties
 
 Name | Type | Description | Notes

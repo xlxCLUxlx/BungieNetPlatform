@@ -1,4 +1,4 @@
-# BungieNetPlatform.BungieNetPlatform.Model.TrendingTrendingEntryCommunityStream
+# BungieNetPlatform.Model.TrendingTrendingEntryCommunityStream
 ## Properties
 
 Name | Type | Description | Notes

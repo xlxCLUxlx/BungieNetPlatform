@@ -1,4 +1,4 @@
-# BungieNetPlatform.BungieNetPlatform.Model.CommunityCommunityLiveStatus
+# BungieNetPlatform.Model.CommunityCommunityLiveStatus
 ## Properties
 
 Name | Type | Description | Notes

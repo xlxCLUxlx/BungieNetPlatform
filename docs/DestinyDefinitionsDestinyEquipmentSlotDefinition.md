@@ -1,4 +1,4 @@
-# BungieNetPlatform.BungieNetPlatform.Model.DestinyDefinitionsDestinyEquipmentSlotDefinition
+# BungieNetPlatform.Model.DestinyDefinitionsDestinyEquipmentSlotDefinition
 ## Properties
 
 Name | Type | Description | Notes

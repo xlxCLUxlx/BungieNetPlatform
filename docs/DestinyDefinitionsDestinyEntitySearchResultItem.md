@@ -1,4 +1,4 @@
-# BungieNetPlatform.BungieNetPlatform.Model.DestinyDefinitionsDestinyEntitySearchResultItem
+# BungieNetPlatform.Model.DestinyDefinitionsDestinyEntitySearchResultItem
 ## Properties
 
 Name | Type | Description | Notes

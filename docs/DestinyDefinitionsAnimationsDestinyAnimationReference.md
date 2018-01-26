@@ -1,4 +1,4 @@
-# BungieNetPlatform.BungieNetPlatform.Model.DestinyDefinitionsAnimationsDestinyAnimationReference
+# BungieNetPlatform.Model.DestinyDefinitionsAnimationsDestinyAnimationReference
 ## Properties
 
 Name | Type | Description | Notes

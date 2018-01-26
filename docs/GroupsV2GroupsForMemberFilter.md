@@ -1,4 +1,4 @@
-# BungieNetPlatform.BungieNetPlatform.Model.GroupsV2GroupsForMemberFilter
+# BungieNetPlatform.Model.GroupsV2GroupsForMemberFilter
 ## Properties
 
 Name | Type | Description | Notes

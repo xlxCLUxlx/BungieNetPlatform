@@ -1,4 +1,4 @@
-# BungieNetPlatform.BungieNetPlatform.Model.UserModelsUserAlias
+# BungieNetPlatform.Model.UserModelsUserAlias
 ## Properties
 
 Name | Type | Description | Notes

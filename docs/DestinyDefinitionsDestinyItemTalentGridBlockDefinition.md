@@ -1,4 +1,4 @@
-# BungieNetPlatform.BungieNetPlatform.Model.DestinyDefinitionsDestinyItemTalentGridBlockDefinition
+# BungieNetPlatform.Model.DestinyDefinitionsDestinyItemTalentGridBlockDefinition
 ## Properties
 
 Name | Type | Description | Notes

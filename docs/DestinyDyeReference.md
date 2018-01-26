@@ -1,4 +1,4 @@
-# BungieNetPlatform.BungieNetPlatform.Model.DestinyDyeReference
+# BungieNetPlatform.Model.DestinyDyeReference
 ## Properties
 
 Name | Type | Description | Notes

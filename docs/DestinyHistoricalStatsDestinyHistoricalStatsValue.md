@@ -1,4 +1,4 @@
-# BungieNetPlatform.BungieNetPlatform.Model.DestinyHistoricalStatsDestinyHistoricalStatsValue
+# BungieNetPlatform.Model.DestinyHistoricalStatsDestinyHistoricalStatsValue
 ## Properties
 
 Name | Type | Description | Notes

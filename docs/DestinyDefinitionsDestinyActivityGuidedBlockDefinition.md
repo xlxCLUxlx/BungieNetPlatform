@@ -1,4 +1,4 @@
-# BungieNetPlatform.BungieNetPlatform.Model.DestinyDefinitionsDestinyActivityGuidedBlockDefinition
+# BungieNetPlatform.Model.DestinyDefinitionsDestinyActivityGuidedBlockDefinition
 ## Properties
 
 Name | Type | Description | Notes

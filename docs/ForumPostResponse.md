@@ -1,4 +1,4 @@
-# BungieNetPlatform.BungieNetPlatform.Model.ForumPostResponse
+# BungieNetPlatform.Model.ForumPostResponse
 ## Properties
 
 Name | Type | Description | Notes

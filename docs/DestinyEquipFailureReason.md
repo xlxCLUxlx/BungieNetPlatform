@@ -1,4 +1,4 @@
-# BungieNetPlatform.BungieNetPlatform.Model.DestinyEquipFailureReason
+# BungieNetPlatform.Model.DestinyEquipFailureReason
 ## Properties
 
 Name | Type | Description | Notes

@@ -1,4 +1,4 @@
-# BungieNetPlatform.BungieNetPlatform.Model.SearchResultOfGroupV2Card
+# BungieNetPlatform.Model.SearchResultOfGroupV2Card
 ## Properties
 
 Name | Type | Description | Notes

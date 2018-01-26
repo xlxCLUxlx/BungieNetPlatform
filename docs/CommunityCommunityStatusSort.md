@@ -1,4 +1,4 @@
-# BungieNetPlatform.BungieNetPlatform.Model.CommunityCommunityStatusSort
+# BungieNetPlatform.Model.CommunityCommunityStatusSort
 ## Properties
 
 Name | Type | Description | Notes

@@ -1,4 +1,4 @@
-# BungieNetPlatform.BungieNetPlatform.Model.SearchResultOfGroupPotentialMembership
+# BungieNetPlatform.Model.SearchResultOfGroupPotentialMembership
 ## Properties
 
 Name | Type | Description | Notes

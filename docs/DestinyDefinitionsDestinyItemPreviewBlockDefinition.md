@@ -1,4 +1,4 @@
-# BungieNetPlatform.BungieNetPlatform.Model.DestinyDefinitionsDestinyItemPreviewBlockDefinition
+# BungieNetPlatform.Model.DestinyDefinitionsDestinyItemPreviewBlockDefinition
 ## Properties
 
 Name | Type | Description | Notes

@@ -1,4 +1,4 @@
-# BungieNetPlatform.BungieNetPlatform.Model.DestinyDefinitionsDestinyTalentNodeStepWeaponPerformances
+# BungieNetPlatform.Model.DestinyDefinitionsDestinyTalentNodeStepWeaponPerformances
 ## Properties
 
 Name | Type | Description | Notes

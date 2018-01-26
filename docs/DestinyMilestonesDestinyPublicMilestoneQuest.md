@@ -1,4 +1,4 @@
-# BungieNetPlatform.BungieNetPlatform.Model.DestinyMilestonesDestinyPublicMilestoneQuest
+# BungieNetPlatform.Model.DestinyMilestonesDestinyPublicMilestoneQuest
 ## Properties
 
 Name | Type | Description | Notes

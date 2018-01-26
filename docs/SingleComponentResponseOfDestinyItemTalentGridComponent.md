@@ -1,4 +1,4 @@
-# BungieNetPlatform.BungieNetPlatform.Model.SingleComponentResponseOfDestinyItemTalentGridComponent
+# BungieNetPlatform.Model.SingleComponentResponseOfDestinyItemTalentGridComponent
 ## Properties
 
 Name | Type | Description | Notes

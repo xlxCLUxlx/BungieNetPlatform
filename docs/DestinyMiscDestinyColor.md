@@ -1,4 +1,4 @@
-# BungieNetPlatform.BungieNetPlatform.Model.DestinyMiscDestinyColor
+# BungieNetPlatform.Model.DestinyMiscDestinyColor
 ## Properties
 
 Name | Type | Description | Notes

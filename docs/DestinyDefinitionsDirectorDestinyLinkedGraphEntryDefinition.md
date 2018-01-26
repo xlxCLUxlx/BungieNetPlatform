@@ -1,4 +1,4 @@
-# BungieNetPlatform.BungieNetPlatform.Model.DestinyDefinitionsDirectorDestinyLinkedGraphEntryDefinition
+# BungieNetPlatform.Model.DestinyDefinitionsDirectorDestinyLinkedGraphEntryDefinition
 ## Properties
 
 Name | Type | Description | Notes

@@ -1,4 +1,4 @@
-# BungieNetPlatform.BungieNetPlatform.Model.MessagesResponsesSaveMessageResult
+# BungieNetPlatform.Model.MessagesResponsesSaveMessageResult
 ## Properties
 
 Name | Type | Description | Notes
